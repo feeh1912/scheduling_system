@@ -96,3 +96,323 @@ Traceback (most recent call last):
     raise frappe.SessionStopped("Session Stopped")
 frappe.exceptions.SessionStopped: Session Stopped
 
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 178, in init_request
+    frappe.local.http_request = frappe.auth.HTTPRequest()
+  File "apps/frappe/frappe/auth.py", line 38, in __init__
+    self.set_session()
+  File "apps/frappe/frappe/auth.py", line 72, in set_session
+    frappe.local.login_manager = LoginManager()
+  File "apps/frappe/frappe/auth.py", line 109, in __init__
+    if self.login() is False:
+  File "apps/frappe/frappe/auth.py", line 134, in login
+    self.authenticate(user=user, pwd=pwd)
+  File "apps/frappe/frappe/auth.py", line 261, in authenticate
+    self.fail("Invalid login credentials", user=user.name)
+  File "apps/frappe/frappe/auth.py", line 306, in fail
+    raise frappe.AuthenticationError
+frappe.exceptions.AuthenticationError
+

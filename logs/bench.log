@@ -914,3 +914,253 @@
 2025-04-04 03:24:42,557 INFO /home/ag/.local/bin/bench worker --queue short,default
 2025-04-04 03:24:42,557 INFO /home/ag/.local/bin/bench schedule
 2025-04-04 03:24:42,564 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 04:02:00,602 INFO /home/ag/.local/bin/bench --site nome-do-seu-site make-doc-type Appointment --module scheduling_system --fields [{"fieldname":"title","fieldtype":"Data","label":"Title"}, {"fieldname":"start_time","fieldtype":"Datetime","label":"Start Time"}, {"fieldname":"end_time","fieldtype":"Datetime","label":"End Time"}, {"fieldname":"description","fieldtype":"Small Text","label":"Description"}, {"fieldname":"status","fieldtype":"Select","label":"Status","options":"Agendado\nConfirmado\nCancelado"}] --custom 0 --read-permissions
+2025-04-04 04:04:29,684 INFO /home/ag/.local/bin/bench --site nome-do-seu-site migrate
+2025-04-04 04:05:28,603 INFO /home/ag/.local/bin/bench list-sites
+2025-04-04 04:05:42,628 INFO /home/ag/.local/bin/bench list-sites
+2025-04-04 04:06:18,628 INFO /home/ag/.local/bin/bench --site nexforce.test migrate
+2025-04-04 04:07:41,380 INFO /home/ag/.local/bin/bench --site nexforce.test migrate
+2025-04-04 04:11:32,132 INFO /home/ag/.local/bin/bench --site nexforce.test migrate
+2025-04-04 04:13:15,193 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 04:13:15,222 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 04:13:15,258 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 04:13:25,255 INFO /home/ag/.local/bin/bench restart
+2025-04-04 04:13:25,600 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-web:
+2025-04-04 04:13:29,061 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-workers:
+2025-04-04 04:13:30,495 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 04:13:30,496 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 04:13:30,497 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 04:13:40,094 INFO /home/ag/.local/bin/bench --site nexforce.test migrate
+2025-04-04 04:13:51,841 INFO /home/ag/.local/bin/bench doctor
+2025-04-04 04:14:17,974 INFO /home/ag/.local/bin/bench clear-cache
+2025-04-04 04:14:18,719 INFO /home/ag/.local/bin/bench build
+2025-04-04 04:15:42,488 INFO /home/ag/.local/bin/bench setup requirements
+2025-04-04 04:15:42,494 DEBUG /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade pip
+2025-04-04 04:15:43,263 LOG Installing frappe
+2025-04-04 04:15:43,263 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade -e /home/ag/scheduling_bench/apps/frappe 
+2025-04-04 04:15:45,567 DEBUG cd /home/ag/scheduling_bench/apps/frappe && yarn install --check-files
+2025-04-04 04:15:49,193 LOG Installing scheduling_system
+2025-04-04 04:15:49,193 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade -e /home/ag/scheduling_bench/apps/scheduling_system 
+2025-04-04 04:16:03,421 INFO /home/ag/.local/bin/bench clear-cache
+2025-04-04 04:16:04,173 INFO /home/ag/.local/bin/bench build
+2025-04-04 04:16:17,863 INFO /home/ag/.local/bin/bench build --force
+2025-04-04 04:20:38,491 INFO /home/ag/.local/bin/bench build --force
+2025-04-04 04:21:18,795 INFO /home/ag/.local/bin/bench build --dev
+2025-04-04 04:26:16,950 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 04:26:16,950 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 04:26:16,950 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 04:34:01,670 INFO /home/ag/.local/bin/bench build
+2025-04-04 04:35:04,582 INFO /home/ag/.local/bin/bench build --app scheduling_system
+2025-04-04 04:35:14,775 INFO /home/ag/.local/bin/bench build --verbose
+2025-04-04 04:36:19,302 INFO /home/ag/.local/bin/bench build --app scheduling_system
+2025-04-04 04:37:45,615 INFO /home/ag/.local/bin/bench build
+2025-04-04 04:37:58,224 INFO /home/ag/.local/bin/bench build --apps scheduling_system
+2025-04-04 04:38:21,838 INFO /home/ag/.local/bin/bench build --apps scheduling_system --production --use_minimal
+2025-04-04 04:38:40,705 INFO /home/ag/.local/bin/bench build --apps scheduling_system
+2025-04-04 04:38:50,255 INFO /home/ag/.local/bin/bench clear-cache
+2025-04-04 04:38:51,167 INFO /home/ag/.local/bin/bench clear-website-cache
+2025-04-04 04:39:02,810 INFO /home/ag/.local/bin/bench restart
+2025-04-04 04:39:03,229 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-web:
+2025-04-04 04:39:06,830 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-workers:
+2025-04-04 04:39:07,650 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 04:39:07,651 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 04:39:07,652 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 04:41:12,463 INFO /home/ag/.local/bin/bench build --apps scheduling_system --production
+2025-04-04 04:42:35,371 INFO /home/ag/.local/bin/bench build --apps scheduling_system --production
+2025-04-04 04:43:02,573 INFO /home/ag/.local/bin/bench build --apps scheduling_system
+2025-04-04 04:43:11,212 INFO /home/ag/.local/bin/bench build --apps scheduling_system --verbose
+2025-04-04 04:43:19,497 INFO /home/ag/.local/bin/bench setup requirements
+2025-04-04 04:43:19,504 DEBUG /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade pip
+2025-04-04 04:43:21,536 LOG Installing frappe
+2025-04-04 04:43:21,536 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade -e /home/ag/scheduling_bench/apps/frappe 
+2025-04-04 04:43:25,298 DEBUG cd /home/ag/scheduling_bench/apps/frappe && yarn install --check-files
+2025-04-04 04:43:32,630 LOG Installing scheduling_system
+2025-04-04 04:43:32,631 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade -e /home/ag/scheduling_bench/apps/scheduling_system 
+2025-04-04 04:43:34,767 INFO /home/ag/.local/bin/bench update --reset
+2025-04-04 04:43:36,977 LOG pulling frappe
+2025-04-04 04:43:36,978 DEBUG cd /home/ag/scheduling_bench/apps/frappe && git fetch --depth=1 --no-tags upstream version-14
+2025-04-04 04:43:37,477 DEBUG cd /home/ag/scheduling_bench/apps/frappe && git reset --hard upstream/version-14
+2025-04-04 04:43:37,701 DEBUG cd /home/ag/scheduling_bench/apps/frappe && git reflog expire --all
+2025-04-04 04:43:37,704 DEBUG cd /home/ag/scheduling_bench/apps/frappe && git gc --prune=all
+2025-04-04 04:43:38,417 DEBUG cd /home/ag/scheduling_bench/apps/frappe && find . -name "*.pyc" -delete
+2025-04-04 04:43:38,604 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade pip
+2025-04-04 04:43:39,359 LOG Installing frappe
+2025-04-04 04:43:39,359 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade -e /home/ag/scheduling_bench/apps/frappe 
+2025-04-04 04:43:41,634 DEBUG cd /home/ag/scheduling_bench/apps/frappe && yarn install --check-files
+2025-04-04 04:43:45,139 LOG Installing scheduling_system
+2025-04-04 04:43:45,139 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade -e /home/ag/scheduling_bench/apps/scheduling_system 
+2025-04-04 04:43:53,788 WARNING /home/ag/.local/bin/bench update --reset executed with exit code 1
+2025-04-04 04:43:54,112 INFO /home/ag/.local/bin/bench build
+2025-04-04 04:44:01,261 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 04:44:01,269 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 04:44:01,282 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 04:44:06,042 INFO /home/ag/.local/bin/bench build --apps scheduling_system
+2025-04-04 04:44:13,101 INFO /home/ag/.local/bin/bench build
+2025-04-04 04:56:43,672 INFO /home/ag/.local/bin/bench build --apps scheduling_system
+2025-04-04 05:00:52,467 INFO /home/ag/.local/bin/bench --site nome_do_seu_site migrate
+2025-04-04 05:02:12,429 INFO /home/ag/.local/bin/bench restart
+2025-04-04 05:02:17,538 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-web:
+2025-04-04 05:02:20,443 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-workers:
+2025-04-04 05:02:22,284 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:02:22,285 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:02:22,286 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:02:35,308 INFO /home/ag/.local/bin/bench doctor
+2025-04-04 05:02:45,046 INFO /home/ag/.local/bin/bench start
+2025-04-04 05:03:27,678 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:03:27,754 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:03:27,756 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:03:48,418 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:03:48,476 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:03:48,500 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:04:22,138 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:04:22,146 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:04:22,149 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:04:28,251 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:04:28,251 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:04:28,257 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:04:58,552 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:04:58,555 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:04:58,559 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:05:44,538 INFO /home/ag/.local/bin/bench clear-cache
+2025-04-04 05:05:45,480 INFO /home/ag/.local/bin/bench restart
+2025-04-04 05:05:45,650 DEBUG cd /home/ag/scheduling_bench && supervisorctl restart frappe:
+2025-04-04 05:05:45,815 WARNING cd /home/ag/scheduling_bench && supervisorctl restart frappe: executed with exit code 7
+2025-04-04 05:05:45,816 WARNING /home/ag/.local/bin/bench restart executed with exit code 1
+2025-04-04 05:06:15,663 INFO /home/ag/.local/bin/bench start
+2025-04-04 05:07:06,787 INFO /home/ag/.local/bin/bench start
+2025-04-04 05:08:24,963 INFO /home/ag/.local/bin/bench start
+2025-04-04 05:08:25,184 INFO /home/ag/.local/bin/bench worker
+2025-04-04 05:08:25,184 INFO /home/ag/.local/bin/bench watch
+2025-04-04 05:08:25,184 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:08:25,192 INFO /home/ag/.local/bin/bench serve --port 8000
+2025-04-04 05:10:40,263 INFO /home/ag/.local/bin/bench --site site1.local set-maintenance-mode off
+2025-04-04 05:11:28,082 INFO /home/ag/.local/bin/bench --site nexforce.test set-maintenance-mode off
+2025-04-04 05:11:39,039 INFO /home/ag/.local/bin/bench update --reset
+2025-04-04 05:11:40,606 LOG pulling frappe
+2025-04-04 05:11:40,606 DEBUG cd /home/ag/scheduling_bench/apps/frappe && git fetch --depth=1 --no-tags upstream version-14
+2025-04-04 05:11:41,106 DEBUG cd /home/ag/scheduling_bench/apps/frappe && git reset --hard upstream/version-14
+2025-04-04 05:11:41,118 DEBUG cd /home/ag/scheduling_bench/apps/frappe && git reflog expire --all
+2025-04-04 05:11:41,120 DEBUG cd /home/ag/scheduling_bench/apps/frappe && git gc --prune=all
+2025-04-04 05:11:41,462 DEBUG cd /home/ag/scheduling_bench/apps/frappe && find . -name "*.pyc" -delete
+2025-04-04 05:11:41,519 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade pip
+2025-04-04 05:11:42,272 LOG Installing frappe
+2025-04-04 05:11:42,272 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade -e /home/ag/scheduling_bench/apps/frappe 
+2025-04-04 05:11:44,753 DEBUG cd /home/ag/scheduling_bench/apps/frappe && yarn install --check-files
+2025-04-04 05:11:49,037 LOG Installing scheduling_system
+2025-04-04 05:11:49,037 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade -e /home/ag/scheduling_bench/apps/scheduling_system 
+2025-04-04 05:11:50,859 DEBUG cd /home/ag/scheduling_bench/apps/scheduling_system && yarn install --check-files
+2025-04-04 05:11:52,301 WARNING /home/ag/.local/bin/bench update --reset executed with exit code 1
+2025-04-04 05:11:56,530 INFO /home/ag/.local/bin/bench clear-cache
+2025-04-04 05:11:57,498 INFO /home/ag/.local/bin/bench build
+2025-04-04 05:12:20,419 INFO /home/ag/.local/bin/bench migrate
+2025-04-04 05:12:21,350 INFO /home/ag/.local/bin/bench restart
+2025-04-04 05:12:21,519 DEBUG cd /home/ag/scheduling_bench && supervisorctl restart frappe:
+2025-04-04 05:12:21,684 WARNING cd /home/ag/scheduling_bench && supervisorctl restart frappe: executed with exit code 7
+2025-04-04 05:12:21,684 WARNING /home/ag/.local/bin/bench restart executed with exit code 1
+2025-04-04 05:12:22,004 INFO /home/ag/.local/bin/bench start
+2025-04-04 05:12:22,228 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:12:22,229 INFO /home/ag/.local/bin/bench serve --port 8000
+2025-04-04 05:12:22,232 INFO /home/ag/.local/bin/bench worker
+2025-04-04 05:12:22,235 INFO /home/ag/.local/bin/bench watch
+2025-04-04 05:20:55,680 INFO /home/ag/.local/bin/bench restart
+2025-04-04 05:20:55,853 DEBUG cd /home/ag/scheduling_bench && supervisorctl restart frappe:
+2025-04-04 05:20:56,027 WARNING cd /home/ag/scheduling_bench && supervisorctl restart frappe: executed with exit code 7
+2025-04-04 05:20:56,027 WARNING /home/ag/.local/bin/bench restart executed with exit code 1
+2025-04-04 05:20:56,349 INFO /home/ag/.local/bin/bench clear-cache
+2025-04-04 05:22:04,574 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:22:04,580 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:22:04,581 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:22:25,973 INFO /home/ag/.local/bin/bench restart
+2025-04-04 05:22:26,323 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-web:
+2025-04-04 05:22:28,760 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-workers:
+2025-04-04 05:22:30,214 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:22:30,216 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:22:30,217 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:24:08,558 INFO /home/ag/.local/bin/bench new-doctype Appointment --module Scheduling System --create-desk-page
+2025-04-04 05:24:34,975 INFO /home/ag/.local/bin/bench --site nome_do_seu_site new-doctype Appointment --module Scheduling System --create-desk-page
+2025-04-04 05:25:52,809 INFO /home/ag/.local/bin/bench --site nexforce.test new-doctype Appointment --module Scheduling System --create-desk-page
+2025-04-04 05:26:15,584 INFO /home/ag/.local/bin/bench --site nexforce.test execute frappe.core.doctype.doctype.doctype.new_doctype --args ['Appointment', 'Scheduling System', 1]
+2025-04-04 05:26:57,470 INFO /home/ag/.local/bin/bench list-sites
+2025-04-04 05:27:53,984 INFO /home/ag/.local/bin/bench --site nexforce.test execute frappe.core.doctype.doctype.doctype.create_custom_doctype --args {'name': 'Appointment', 'module': 'Scheduling System', 'custom': 1, 'fields': [{'label': 'Title', 'fieldname': 'title', 'fieldtype': 'Data', 'reqd': 1}, {'label': 'Start Time', 'fieldname': 'start_time', 'fieldtype': 'Datetime', 'reqd': 1}, {'label': 'End Time', 'fieldname': 'end_time', 'fieldtype': 'Datetime', 'reqd': 1}, {'label': 'Status', 'fieldname': 'status', 'fieldtype': 'Select', 'options': 'Planned\nConfirmed\nCompleted\nCancelled'}]}
+2025-04-04 05:28:55,020 INFO /home/ag/.local/bin/bench build
+2025-04-04 05:29:07,259 INFO /home/ag/.local/bin/bench clear-cache
+2025-04-04 05:29:08,126 INFO /home/ag/.local/bin/bench restart
+2025-04-04 05:29:08,466 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-web:
+2025-04-04 05:29:10,871 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-workers:
+2025-04-04 05:29:11,321 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:29:11,321 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:29:11,324 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:29:35,626 INFO /home/ag/.local/bin/bench --site nexforce.test clear-website-cache
+2025-04-04 05:29:36,334 INFO /home/ag/.local/bin/bench --site nexforce.test build
+2025-04-04 05:29:48,941 INFO /home/ag/.local/bin/bench restart
+2025-04-04 05:29:49,288 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-web:
+2025-04-04 05:29:52,432 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-workers:
+2025-04-04 05:29:52,913 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:29:52,913 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:29:52,914 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:31:14,679 INFO /home/ag/.local/bin/bench build
+2025-04-04 05:31:27,671 INFO /home/ag/.local/bin/bench clear-cache
+2025-04-04 05:31:28,516 INFO /home/ag/.local/bin/bench restart
+2025-04-04 05:31:28,864 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-web:
+2025-04-04 05:31:31,959 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-workers:
+2025-04-04 05:31:32,769 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:31:32,770 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:31:32,772 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:31:51,452 INFO /home/ag/.local/bin/bench update --reset
+2025-04-04 05:31:52,917 LOG pulling frappe
+2025-04-04 05:31:52,917 DEBUG cd /home/ag/scheduling_bench/apps/frappe && git fetch --depth=1 --no-tags upstream version-14
+2025-04-04 05:31:53,473 DEBUG cd /home/ag/scheduling_bench/apps/frappe && git reset --hard upstream/version-14
+2025-04-04 05:31:53,484 DEBUG cd /home/ag/scheduling_bench/apps/frappe && git reflog expire --all
+2025-04-04 05:31:53,486 DEBUG cd /home/ag/scheduling_bench/apps/frappe && git gc --prune=all
+2025-04-04 05:31:54,190 DEBUG cd /home/ag/scheduling_bench/apps/frappe && find . -name "*.pyc" -delete
+2025-04-04 05:31:54,249 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade pip
+2025-04-04 05:31:55,029 LOG Installing frappe
+2025-04-04 05:31:55,029 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade -e /home/ag/scheduling_bench/apps/frappe 
+2025-04-04 05:31:57,626 DEBUG cd /home/ag/scheduling_bench/apps/frappe && yarn install --check-files
+2025-04-04 05:32:01,648 LOG Installing scheduling_system
+2025-04-04 05:32:01,648 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade -e /home/ag/scheduling_bench/apps/scheduling_system 
+2025-04-04 05:32:03,491 DEBUG cd /home/ag/scheduling_bench/apps/scheduling_system && yarn install --check-files
+2025-04-04 05:32:19,484 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-web:
+2025-04-04 05:32:21,931 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-workers:
+2025-04-04 05:32:22,408 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:32:22,410 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:32:22,411 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:32:24,087 INFO /home/ag/.local/bin/bench setup requirements
+2025-04-04 05:32:24,094 DEBUG /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade pip
+2025-04-04 05:32:24,845 LOG Installing frappe
+2025-04-04 05:32:24,846 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade -e /home/ag/scheduling_bench/apps/frappe 
+2025-04-04 05:32:27,243 DEBUG cd /home/ag/scheduling_bench/apps/frappe && yarn install --check-files
+2025-04-04 05:32:31,434 LOG Installing scheduling_system
+2025-04-04 05:32:31,434 DEBUG cd /home/ag/scheduling_bench && /home/ag/scheduling_bench/env/bin/python -m pip install --quiet --upgrade -e /home/ag/scheduling_bench/apps/scheduling_system 
+2025-04-04 05:32:33,175 DEBUG cd /home/ag/scheduling_bench/apps/scheduling_system && yarn install --check-files
+2025-04-04 05:32:33,946 INFO /home/ag/.local/bin/bench build
+2025-04-04 05:32:46,458 INFO /home/ag/.local/bin/bench restart
+2025-04-04 05:32:46,807 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-web:
+2025-04-04 05:32:48,258 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-workers:
+2025-04-04 05:32:49,358 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:32:49,359 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:32:49,361 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:33:17,480 INFO /home/ag/.local/bin/bench --site nexforce.test logs
+2025-04-04 05:33:43,589 INFO /home/ag/.local/bin/bench --site nexforce.test console
+2025-04-04 05:34:07,584 INFO /home/ag/.local/bin/bench --site nexforce.test tail -f logs/web.log
+2025-04-04 05:34:15,734 INFO /home/ag/.local/bin/bench --site nexforce.test tail -f logs/error.log
+2025-04-04 05:36:03,909 INFO /home/ag/.local/bin/bench doctor
+2025-04-04 05:36:16,602 INFO /home/ag/.local/bin/bench restart
+2025-04-04 05:36:16,942 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-web:
+2025-04-04 05:36:19,764 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-workers:
+2025-04-04 05:36:21,305 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:36:21,305 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:36:21,306 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:36:23,053 INFO /home/ag/.local/bin/bench --site nexforce.test serve
+2025-04-04 05:36:38,876 INFO /home/ag/.local/bin/bench clear-cache
+2025-04-04 05:36:39,649 INFO /home/ag/.local/bin/bench build
+2025-04-04 05:36:52,792 INFO /home/ag/.local/bin/bench migrate
+2025-04-04 05:36:58,688 INFO /home/ag/.local/bin/bench restart
+2025-04-04 05:36:59,042 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-web:
+2025-04-04 05:37:00,604 DEBUG cd /home/ag/scheduling_bench && sudo supervisorctl restart scheduling_bench-workers:
+2025-04-04 05:37:01,037 INFO /home/ag/.local/bin/bench schedule
+2025-04-04 05:37:01,038 INFO /home/ag/.local/bin/bench worker --queue long,default,short
+2025-04-04 05:37:01,040 INFO /home/ag/.local/bin/bench worker --queue short,default
+2025-04-04 05:37:03,023 INFO /home/ag/.local/bin/bench --site nexforce.test serve
+2025-04-04 05:38:30,327 INFO /home/ag/.local/bin/bench --site nexforce.test serve
+2025-04-04 05:38:42,649 INFO /home/ag/.local/bin/bench --site nexforce.test serve --port 8001

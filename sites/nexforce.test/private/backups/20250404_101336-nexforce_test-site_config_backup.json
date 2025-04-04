@@ -3,6 +3,5 @@
  "db_password": "AfqFC3KnsPqLQ0DN",
  "db_type": "mariadb",
  "developer_mode": 1,
- "disable_ssl": 1,
- "maintenance_mode": 0
+ "disable_ssl": 1
 }

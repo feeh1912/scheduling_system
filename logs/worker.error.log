@@ -10685,3 +10685,258 @@ Traceback (most recent call last):
   File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
   File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
 ModuleNotFoundError: No module named 'scheduling_system'
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+Traceback (most recent call last):
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 427, in read_from_socket
+Exception in thread Thread-1:
+Traceback (most recent call last):
+    bufflen = recv_into(self._sock, self._buffer)
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/_compat.py", line 75, in recv_into
+    self.run()
+    return sock.recv_into(*args, **kwargs)  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/utils/bench_helper.py", line 109, in <module>
+        response = self.parse_response(block=False, timeout=timeout)main()
+
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/utils/bench_helper.py", line 18, in main
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    click.Group(commands=commands)(prog_name="bench")    
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/click/core.py", line 829, in __call__
+return self._parser.can_read(timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.main(*args, **kwargs)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/click/core.py", line 782, in main
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError    : rv = self.invoke(ctx)Connection closed by server.
+
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/click/core.py", line 1259, in invoke
+    return _process_result(sub_ctx.command.invoke(sub_ctx))
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/click/core.py", line 1066, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/click/core.py", line 610, in invoke
+    return callback(*args, **kwargs)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/commands/scheduler.py", line 200, in start_worker
+    start_worker(
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/utils/background_jobs.py", line 266, in start_worker
+    worker.work(
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/worker.py", line 434, in work
+    self.teardown()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/worker.py", line 988, in teardown
+    self.register_death()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/worker.py", line 774, in register_death
+    p.execute()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 4019, in execute
+    return execute(conn, stack, raise_on_error)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3894, in _execute_transaction
+    self.parse_response(connection, '_')
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3977, in parse_response
+    result = Redis.parse_response(
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 915, in parse_response
+    response = connection.read_response()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 739, in read_response
+    response = self._parser.read_response()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 470, in read_response
+    self.read_from_socket()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 452, in read_from_socket
+    raise ConnectionError("Error while reading from socket: %s" %
+redis.exceptions.ConnectionError: Error while reading from socket: (104, 'Connection reset by peer')
+/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/connections.py:107: DeprecationWarning: The `resolve_connection` function is deprecated. Pass the `connection` explicitly instead.
+  warnings.warn(
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+2025-04-04 06:22:40,293 [Job 184c0362-c93a-4611-831f-08df6bf2af73]: exception raised while executing (frappe.utils.background_jobs.execute_job)
+Traceback (most recent call last):
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/model/document.py", line 1628, in execute_action
+    getattr(doc, __action)(**kwargs)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/model/document.py", line 1026, in _rename
+    self.name = rename_doc(doc=self, new=name, merge=merge, force=force, validate=validate_rename)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/model/rename_doc.py", line 197, in rename_doc
+    new_doc.run_method("after_rename", old, new, merge)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/model/document.py", line 945, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/model/document.py", line 1297, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/model/document.py", line 1279, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/model/document.py", line 942, in fn
+    return method_object(*args, **kwargs)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/core/doctype/doctype/doctype.py", line 541, in after_rename
+    self.rename_files_and_folders(old, new)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/core/doctype/doctype/doctype.py", line 551, in rename_files_and_folders
+    new_path = get_doc_path(self.module, "doctype", new)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/modules/utils.py", line 211, in get_doc_path
+    return os.path.join(get_module_path(module), dt, dn)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/modules/utils.py", line 206, in get_module_path
+    return frappe.get_module_path(module)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/__init__.py", line 1371, in get_module_path
+    app = get_module_app(module)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/modules/utils.py", line 283, in get_module_app
+    frappe.throw(_("Module {} not found").format(module), exc=frappe.DoesNotExistError)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/__init__.py", line 551, in throw
+    msgprint(
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/__init__.py", line 512, in msgprint
+    _raise_exception()
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/__init__.py", line 455, in _raise_exception
+    raise raise_exception(msg)
+frappe.exceptions.DoesNotExistError: Module Customer not found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/worker.py", line 1418, in perform_job
+    rv = job.perform()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/job.py", line 1225, in perform
+    self._result = self._execute()
+  File "/home/ag/scheduling_bench/env/lib/python3.10/site-packages/rq/job.py", line 1262, in _execute
+    result = self.func(*self.args, **self.kwargs)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/utils/background_jobs.py", line 188, in execute_job
+    retval = method(**kwargs)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/model/document.py", line 1638, in execute_action
+    doc.add_comment("Comment", _("Action Failed") + "<br><br>" + msg)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/model/document.py", line 1375, in add_comment
+    out = frappe.get_doc(
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/model/document.py", line 271, in insert
+    self._validate_links()
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/model/document.py", line 913, in _validate_links
+    frappe.throw(_("Could not find {0}").format(msg), frappe.LinkValidationError)
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/__init__.py", line 551, in throw
+    msgprint(
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/__init__.py", line 512, in msgprint
+    _raise_exception()
+  File "/home/ag/scheduling_bench/apps/frappe/frappe/__init__.py", line 455, in _raise_exception
+    raise raise_exception(msg)
+frappe.exceptions.LinkValidationError: Could not find Reference Name: Customer
+

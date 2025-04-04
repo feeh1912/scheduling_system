@@ -506,3 +506,688 @@
 2025-04-04 03:14:14,993 Worker a7e245008218466d9480f275f6dd09dd [PID 70831]: warm shut down requested
 2025-04-04 03:14:14,993 Unsubscribing from channel rq:pubsub:a7e245008218466d9480f275f6dd09dd
 2025-04-04 03:14:14,993 Unsubscribing from channel rq:pubsub:3e35e535be6d4e5a96d70b72129763cc
+2025-04-04 04:13:15,536 Worker rq:worker:f4e9f206fe5947609bfa387eefee5fbe started with PID 75446, version 1.14.1
+2025-04-04 04:13:15,536 Subscribing to channel rq:pubsub:f4e9f206fe5947609bfa387eefee5fbe
+2025-04-04 04:13:15,537 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 04:13:15,538 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-04 04:13:15,538 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-04 04:13:15,539 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-04 04:13:15,542 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function build_index_for_all_routes at 0x7c3b83643370>', kwargs={}, method=<function build_index_for_all_routes at 0x7c3b83643370>, site='nexforce.test', user='Administrator') (b7b5447d-2134-4263-b9bd-9952decf14c4)
+2025-04-04 04:13:15,620 Worker rq:worker:f5f513ff493e46968121c3d2a1e28dad started with PID 75445, version 1.14.1
+2025-04-04 04:13:15,620 Subscribing to channel rq:pubsub:f5f513ff493e46968121c3d2a1e28dad
+2025-04-04 04:13:15,621 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+Retrieving Routes                   : [=                                       ] 3%
+2025-04-04 04:13:20,140 home-ag-scheduling_bench:long: Job OK (b7b5447d-2134-4263-b9bd-9952decf14c4)
+2025-04-04 04:13:20,141 Result is kept for 600 seconds
+2025-04-04 04:13:20,150 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function build_index_for_all_routes at 0x7abb72f43370>', kwargs={}, method=<function build_index_for_all_routes at 0x7abb72f43370>, site='nexforce.test', user='Administrator') (63132538-3919-4147-b7a0-5b2c45a9172a)
+Retrieving Routes                   : [=                                       ] 3%
+2025-04-04 04:13:24,327 home-ag-scheduling_bench:long: Job OK (63132538-3919-4147-b7a0-5b2c45a9172a)
+2025-04-04 04:13:24,327 Result is kept for 600 seconds
+2025-04-04 04:13:29,216 Worker f5f513ff493e46968121c3d2a1e28dad [PID 75445]: warm shut down requested
+2025-04-04 04:13:29,216 Worker f4e9f206fe5947609bfa387eefee5fbe [PID 75446]: warm shut down requested
+2025-04-04 04:13:29,216 Unsubscribing from channel rq:pubsub:f4e9f206fe5947609bfa387eefee5fbe
+2025-04-04 04:13:29,216 Unsubscribing from channel rq:pubsub:f5f513ff493e46968121c3d2a1e28dad
+2025-04-04 04:13:30,817 Worker rq:worker:58326caddd6d4e138d60e4158f5e97f7 started with PID 75517, version 1.14.1
+2025-04-04 04:13:30,817 Subscribing to channel rq:pubsub:58326caddd6d4e138d60e4158f5e97f7
+2025-04-04 04:13:30,818 Worker rq:worker:68d299300a3843578d3d55d27e544814 started with PID 75518, version 1.14.1
+2025-04-04 04:13:30,818 Subscribing to channel rq:pubsub:68d299300a3843578d3d55d27e544814
+2025-04-04 04:13:30,818 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 04:13:30,818 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 04:13:42,152 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function build_index_for_all_routes at 0x70c2f243b370>', kwargs={}, method=<function build_index_for_all_routes at 0x70c2f243b370>, site='nexforce.test', user='Administrator') (e5c8fec2-5c1c-4a59-a198-c1f50c1aab7d)
+Retrieving Routes                   : [=                                       ] 3%
+2025-04-04 04:13:46,562 home-ag-scheduling_bench:long: Job OK (e5c8fec2-5c1c-4a59-a198-c1f50c1aab7d)
+2025-04-04 04:13:46,562 Result is kept for 600 seconds
+2025-04-04 04:23:51,030 Worker 58326caddd6d4e138d60e4158f5e97f7 [PID 75517]: warm shut down requested
+2025-04-04 04:23:51,031 Unsubscribing from channel rq:pubsub:58326caddd6d4e138d60e4158f5e97f7
+2025-04-04 04:23:51,030 Worker 68d299300a3843578d3d55d27e544814 [PID 75518]: warm shut down requested
+2025-04-04 04:23:51,031 Unsubscribing from channel rq:pubsub:68d299300a3843578d3d55d27e544814
+2025-04-04 04:26:26,302 Worker rq:worker:fb8f159f87824f47b8d8efc85b240452 started with PID 1296, version 1.14.1
+2025-04-04 04:26:26,302 Subscribing to channel rq:pubsub:fb8f159f87824f47b8d8efc85b240452
+2025-04-04 04:26:26,303 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 04:26:26,302 Worker rq:worker:66e5536b3df34505937d8ff7f83580f4 started with PID 1297, version 1.14.1
+2025-04-04 04:26:26,302 Subscribing to channel rq:pubsub:66e5536b3df34505937d8ff7f83580f4
+2025-04-04 04:26:26,303 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 04:39:06,988 Worker fb8f159f87824f47b8d8efc85b240452 [PID 1296]: warm shut down requested
+2025-04-04 04:39:06,988 Worker 66e5536b3df34505937d8ff7f83580f4 [PID 1297]: warm shut down requested
+2025-04-04 04:39:06,989 Unsubscribing from channel rq:pubsub:fb8f159f87824f47b8d8efc85b240452
+2025-04-04 04:39:06,989 Unsubscribing from channel rq:pubsub:66e5536b3df34505937d8ff7f83580f4
+2025-04-04 04:39:08,014 Worker rq:worker:d252a669a0ff46999799eea4ccedddcd started with PID 5097, version 1.14.1
+2025-04-04 04:39:08,014 Subscribing to channel rq:pubsub:d252a669a0ff46999799eea4ccedddcd
+2025-04-04 04:39:08,014 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 04:39:08,015 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-04 04:39:08,027 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-04 04:39:08,027 Worker rq:worker:9fe536f5aff143cb9d254ad2ef50d2fd started with PID 5098, version 1.14.1
+2025-04-04 04:39:08,027 Subscribing to channel rq:pubsub:9fe536f5aff143cb9d254ad2ef50d2fd
+2025-04-04 04:39:08,027 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 04:39:08,028 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-04 04:43:51,428 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function build_index_for_all_routes at 0x766eeeb5c430>', kwargs={}, method=<function build_index_for_all_routes at 0x766eeeb5c430>, site='nexforce.test', user='Administrator') (e16dca1c-2e65-402e-bfc9-80c3b17afd79)
+Retrieving Routes                   : [=                                       ] 3%
+2025-04-04 04:43:56,312 home-ag-scheduling_bench:long: Job OK (e16dca1c-2e65-402e-bfc9-80c3b17afd79)
+2025-04-04 04:43:56,312 Result is kept for 600 seconds
+2025-04-04 04:43:59,911 Worker d252a669a0ff46999799eea4ccedddcd [PID 5097]: warm shut down requested
+2025-04-04 04:43:59,911 Unsubscribing from channel rq:pubsub:d252a669a0ff46999799eea4ccedddcd
+2025-04-04 04:43:59,911 Worker 9fe536f5aff143cb9d254ad2ef50d2fd [PID 5098]: warm shut down requested
+2025-04-04 04:43:59,911 Unsubscribing from channel rq:pubsub:9fe536f5aff143cb9d254ad2ef50d2fd
+2025-04-04 04:44:01,641 Worker rq:worker:a53143c4102e44fc894337e7192236ba started with PID 6914, version 1.14.1
+2025-04-04 04:44:01,641 Subscribing to channel rq:pubsub:a53143c4102e44fc894337e7192236ba
+2025-04-04 04:44:01,641 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 04:44:01,645 Worker rq:worker:1c01a7cf6fd54376bde9fafa914e1cc5 started with PID 6913, version 1.14.1
+2025-04-04 04:44:01,645 Subscribing to channel rq:pubsub:1c01a7cf6fd54376bde9fafa914e1cc5
+2025-04-04 04:44:01,646 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 04:57:31,856 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-04 04:57:31,856 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-04 04:57:31,857 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-04 05:02:20,601 Worker 1c01a7cf6fd54376bde9fafa914e1cc5 [PID 6913]: warm shut down requested
+2025-04-04 05:02:20,601 Worker a53143c4102e44fc894337e7192236ba [PID 6914]: warm shut down requested
+2025-04-04 05:02:20,601 Unsubscribing from channel rq:pubsub:1c01a7cf6fd54376bde9fafa914e1cc5
+2025-04-04 05:02:20,601 Unsubscribing from channel rq:pubsub:a53143c4102e44fc894337e7192236ba
+2025-04-04 05:02:22,601 Worker rq:worker:cb463bed2eb8488691d2a176f7ff7977 started with PID 7883, version 1.14.1
+2025-04-04 05:02:22,601 Subscribing to channel rq:pubsub:cb463bed2eb8488691d2a176f7ff7977
+2025-04-04 05:02:22,601 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:02:22,612 Worker rq:worker:3261f622d5be4359b779330da414c080 started with PID 7882, version 1.14.1
+2025-04-04 05:02:22,612 Subscribing to channel rq:pubsub:3261f622d5be4359b779330da414c080
+2025-04-04 05:02:22,613 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:03:27,522 Worker 3261f622d5be4359b779330da414c080 [PID 7882]: warm shut down requested
+2025-04-04 05:03:27,523 Unsubscribing from channel rq:pubsub:3261f622d5be4359b779330da414c080
+2025-04-04 05:03:27,523 Worker cb463bed2eb8488691d2a176f7ff7977 [PID 7883]: warm shut down requested
+2025-04-04 05:03:27,523 Unsubscribing from channel rq:pubsub:cb463bed2eb8488691d2a176f7ff7977
+2025-04-04 05:03:28,086 Worker rq:worker:eb9d89576d44442894bd7087be6fbbe2 started with PID 7984, version 1.14.1
+2025-04-04 05:03:28,086 Subscribing to channel rq:pubsub:eb9d89576d44442894bd7087be6fbbe2
+2025-04-04 05:03:28,086 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:03:28,095 Worker rq:worker:7046954e37b14bc787bc95fe70bb536a started with PID 7985, version 1.14.1
+2025-04-04 05:03:28,095 Subscribing to channel rq:pubsub:7046954e37b14bc787bc95fe70bb536a
+2025-04-04 05:03:28,096 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:03:48,250 Worker eb9d89576d44442894bd7087be6fbbe2 [PID 7984]: warm shut down requested
+2025-04-04 05:03:48,250 Worker 7046954e37b14bc787bc95fe70bb536a [PID 7985]: warm shut down requested
+2025-04-04 05:03:48,251 Unsubscribing from channel rq:pubsub:eb9d89576d44442894bd7087be6fbbe2
+2025-04-04 05:03:48,251 Unsubscribing from channel rq:pubsub:7046954e37b14bc787bc95fe70bb536a
+2025-04-04 05:03:48,805 Worker rq:worker:51949fba69bf4680a34fc02753f7dc4f started with PID 8034, version 1.14.1
+2025-04-04 05:03:48,805 Subscribing to channel rq:pubsub:51949fba69bf4680a34fc02753f7dc4f
+2025-04-04 05:03:48,806 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:03:48,824 Worker rq:worker:b7e29e6a334141c19ae9ec16c883100c started with PID 8036, version 1.14.1
+2025-04-04 05:03:48,824 Subscribing to channel rq:pubsub:b7e29e6a334141c19ae9ec16c883100c
+2025-04-04 05:03:48,825 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:04:22,485 Worker rq:worker:9f03aca3d8e5444faa48b193e350c99d started with PID 8102, version 1.14.1
+2025-04-04 05:04:22,486 Subscribing to channel rq:pubsub:9f03aca3d8e5444faa48b193e350c99d
+2025-04-04 05:04:22,486 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:04:22,499 Worker rq:worker:c3484c53d8ee4e9ab6152a3ca33d3197 started with PID 8101, version 1.14.1
+2025-04-04 05:04:22,499 Subscribing to channel rq:pubsub:c3484c53d8ee4e9ab6152a3ca33d3197
+2025-04-04 05:04:22,500 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:04:28,594 Worker rq:worker:bdb5e44a830241eab89a6a5d37c4a775 started with PID 8144, version 1.14.1
+2025-04-04 05:04:28,594 Subscribing to channel rq:pubsub:bdb5e44a830241eab89a6a5d37c4a775
+2025-04-04 05:04:28,595 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:04:28,610 Worker rq:worker:484aa201ec3b405e81f2e704788da7e5 started with PID 8148, version 1.14.1
+2025-04-04 05:04:28,610 Subscribing to channel rq:pubsub:484aa201ec3b405e81f2e704788da7e5
+2025-04-04 05:04:28,611 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:04:58,899 Worker rq:worker:07568c5df5454e558d1af0d1f699c671 started with PID 8226, version 1.14.1
+2025-04-04 05:04:58,899 Subscribing to channel rq:pubsub:07568c5df5454e558d1af0d1f699c671
+2025-04-04 05:04:58,899 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:04:58,902 Worker rq:worker:b150987f7b58444b88a185f0fab5fd6a started with PID 8227, version 1.14.1
+2025-04-04 05:04:58,902 Subscribing to channel rq:pubsub:b150987f7b58444b88a185f0fab5fd6a
+2025-04-04 05:04:58,902 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:05:20,332 Worker 07568c5df5454e558d1af0d1f699c671 [PID 8226]: warm shut down requested
+2025-04-04 05:05:20,332 Worker b150987f7b58444b88a185f0fab5fd6a [PID 8227]: warm shut down requested
+2025-04-04 05:05:20,333 Unsubscribing from channel rq:pubsub:07568c5df5454e558d1af0d1f699c671
+2025-04-04 05:05:20,333 Unsubscribing from channel rq:pubsub:b150987f7b58444b88a185f0fab5fd6a
+2025-04-04 05:08:25,542 Worker rq:worker:6be1975317be45f0b03f3e985f1e4547 started with PID 8540, version 1.14.1
+2025-04-04 05:08:25,542 Subscribing to channel rq:pubsub:6be1975317be45f0b03f3e985f1e4547
+2025-04-04 05:08:25,543 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default, home-ag-scheduling_bench:long...
+2025-04-04 05:10:18,121 Worker 6be1975317be45f0b03f3e985f1e4547 [PID 8540]: warm shut down requested
+2025-04-04 05:12:22,564 Worker rq:worker:59050e474cab4cd4b4a33168827463ba started with PID 9185, version 1.14.1
+2025-04-04 05:12:22,564 Subscribing to channel rq:pubsub:59050e474cab4cd4b4a33168827463ba
+2025-04-04 05:12:22,565 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default, home-ag-scheduling_bench:long...
+2025-04-04 05:19:10,010 Worker 59050e474cab4cd4b4a33168827463ba [PID 9185]: warm shut down requested
+2025-04-04 05:19:10,011 Unsubscribing from channel rq:pubsub:59050e474cab4cd4b4a33168827463ba
+2025-04-04 05:22:04,943 Worker rq:worker:963c71d965084bfb967c174e283e5924 started with PID 9764, version 1.14.1
+2025-04-04 05:22:04,943 Subscribing to channel rq:pubsub:963c71d965084bfb967c174e283e5924
+2025-04-04 05:22:04,944 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:22:04,944 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-04 05:22:04,945 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-04 05:22:04,946 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-04 05:22:04,962 Worker rq:worker:0dff6a58b8ea49229189f1dce2edb846 started with PID 9763, version 1.14.1
+2025-04-04 05:22:04,963 Subscribing to channel rq:pubsub:0dff6a58b8ea49229189f1dce2edb846
+2025-04-04 05:22:04,963 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:22:28,932 Worker 0dff6a58b8ea49229189f1dce2edb846 [PID 9763]: warm shut down requested
+2025-04-04 05:22:28,932 Worker 963c71d965084bfb967c174e283e5924 [PID 9764]: warm shut down requested
+2025-04-04 05:22:28,932 Unsubscribing from channel rq:pubsub:0dff6a58b8ea49229189f1dce2edb846
+2025-04-04 05:22:28,932 Unsubscribing from channel rq:pubsub:963c71d965084bfb967c174e283e5924
+2025-04-04 05:22:30,562 Worker rq:worker:32e4d70a214b4e94a6bad55ba67df94e started with PID 9850, version 1.14.1
+2025-04-04 05:22:30,562 Subscribing to channel rq:pubsub:32e4d70a214b4e94a6bad55ba67df94e
+2025-04-04 05:22:30,562 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:22:30,567 Worker rq:worker:c34f6a86d08e435ea87fa62a877e93a1 started with PID 9849, version 1.14.1
+2025-04-04 05:22:30,567 Subscribing to channel rq:pubsub:c34f6a86d08e435ea87fa62a877e93a1
+2025-04-04 05:22:30,567 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:29:11,029 Worker c34f6a86d08e435ea87fa62a877e93a1 [PID 9849]: warm shut down requested
+2025-04-04 05:29:11,029 Worker 32e4d70a214b4e94a6bad55ba67df94e [PID 9850]: warm shut down requested
+2025-04-04 05:29:11,029 Unsubscribing from channel rq:pubsub:c34f6a86d08e435ea87fa62a877e93a1
+2025-04-04 05:29:11,029 Unsubscribing from channel rq:pubsub:32e4d70a214b4e94a6bad55ba67df94e
+2025-04-04 05:29:11,647 Worker rq:worker:8111c684095b4206a227138afc44971c started with PID 10361, version 1.14.1
+2025-04-04 05:29:11,647 Subscribing to channel rq:pubsub:8111c684095b4206a227138afc44971c
+2025-04-04 05:29:11,648 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:29:11,649 Worker rq:worker:054208ffdf7b4a05a6d29baf4a37cc7b started with PID 10362, version 1.14.1
+2025-04-04 05:29:11,649 Subscribing to channel rq:pubsub:054208ffdf7b4a05a6d29baf4a37cc7b
+2025-04-04 05:29:11,649 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:29:52,596 Worker 8111c684095b4206a227138afc44971c [PID 10361]: warm shut down requested
+2025-04-04 05:29:52,596 Worker 054208ffdf7b4a05a6d29baf4a37cc7b [PID 10362]: warm shut down requested
+2025-04-04 05:29:52,596 Unsubscribing from channel rq:pubsub:8111c684095b4206a227138afc44971c
+2025-04-04 05:29:52,596 Unsubscribing from channel rq:pubsub:054208ffdf7b4a05a6d29baf4a37cc7b
+2025-04-04 05:29:53,273 Worker rq:worker:52db5f9294b04b23a1b799a8b3c8f7c5 started with PID 10529, version 1.14.1
+2025-04-04 05:29:53,273 Subscribing to channel rq:pubsub:52db5f9294b04b23a1b799a8b3c8f7c5
+2025-04-04 05:29:53,274 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:29:53,274 Worker rq:worker:97ab3baab0e34014be5b0f5966febc63 started with PID 10530, version 1.14.1
+2025-04-04 05:29:53,275 Subscribing to channel rq:pubsub:97ab3baab0e34014be5b0f5966febc63
+2025-04-04 05:29:53,276 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:31:32,122 Worker 52db5f9294b04b23a1b799a8b3c8f7c5 [PID 10529]: warm shut down requested
+2025-04-04 05:31:32,122 Worker 97ab3baab0e34014be5b0f5966febc63 [PID 10530]: warm shut down requested
+2025-04-04 05:31:32,122 Unsubscribing from channel rq:pubsub:52db5f9294b04b23a1b799a8b3c8f7c5
+2025-04-04 05:31:32,122 Unsubscribing from channel rq:pubsub:97ab3baab0e34014be5b0f5966febc63
+2025-04-04 05:31:33,093 Worker rq:worker:f5f52145e40141e0a4d02d6f379331ef started with PID 10804, version 1.14.1
+2025-04-04 05:31:33,093 Subscribing to channel rq:pubsub:f5f52145e40141e0a4d02d6f379331ef
+2025-04-04 05:31:33,093 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:31:33,108 Worker rq:worker:956e355bf866440d83ebf36d2dee0b1b started with PID 10805, version 1.14.1
+2025-04-04 05:31:33,108 Subscribing to channel rq:pubsub:956e355bf866440d83ebf36d2dee0b1b
+2025-04-04 05:31:33,109 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:32:06,350 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function build_index_for_all_routes at 0x7f421d090430>', kwargs={}, method=<function build_index_for_all_routes at 0x7f421d090430>, site='nexforce.test', user='Administrator') (a15a10c7-f116-472f-b627-539b323055f3)
+Retrieving Routes                   : [=                                       ] 3%
+2025-04-04 05:32:11,067 home-ag-scheduling_bench:long: Job OK (a15a10c7-f116-472f-b627-539b323055f3)
+2025-04-04 05:32:11,067 Result is kept for 600 seconds
+2025-04-04 05:32:22,091 Worker f5f52145e40141e0a4d02d6f379331ef [PID 10804]: warm shut down requested
+2025-04-04 05:32:22,091 Worker 956e355bf866440d83ebf36d2dee0b1b [PID 10805]: warm shut down requested
+2025-04-04 05:32:22,091 Unsubscribing from channel rq:pubsub:f5f52145e40141e0a4d02d6f379331ef
+2025-04-04 05:32:22,091 Unsubscribing from channel rq:pubsub:956e355bf866440d83ebf36d2dee0b1b
+2025-04-04 05:32:22,738 Worker rq:worker:2c75253322b14ea5ac544f94db180325 started with PID 11170, version 1.14.1
+2025-04-04 05:32:22,739 Subscribing to channel rq:pubsub:2c75253322b14ea5ac544f94db180325
+2025-04-04 05:32:22,738 Worker rq:worker:692bb537d7e047b292e1cab6f0ea0250 started with PID 11171, version 1.14.1
+2025-04-04 05:32:22,739 Subscribing to channel rq:pubsub:692bb537d7e047b292e1cab6f0ea0250
+2025-04-04 05:32:22,739 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:32:22,739 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:32:48,416 Worker 2c75253322b14ea5ac544f94db180325 [PID 11170]: warm shut down requested
+2025-04-04 05:32:48,416 Worker 692bb537d7e047b292e1cab6f0ea0250 [PID 11171]: warm shut down requested
+2025-04-04 05:32:48,416 Unsubscribing from channel rq:pubsub:2c75253322b14ea5ac544f94db180325
+2025-04-04 05:32:48,416 Unsubscribing from channel rq:pubsub:692bb537d7e047b292e1cab6f0ea0250
+2025-04-04 05:32:49,695 Worker rq:worker:5088dd0e2caa4332b97bac7a7043ac85 started with PID 11474, version 1.14.1
+2025-04-04 05:32:49,695 Subscribing to channel rq:pubsub:5088dd0e2caa4332b97bac7a7043ac85
+2025-04-04 05:32:49,695 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:32:49,696 Worker rq:worker:1473d417e8714f1c8050110cfa341e0b started with PID 11473, version 1.14.1
+2025-04-04 05:32:49,696 Subscribing to channel rq:pubsub:1473d417e8714f1c8050110cfa341e0b
+2025-04-04 05:32:49,697 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:33:49,916 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.integrations.doctype.google_drive.google_drive.daily_backup)
+2025-04-04 05:33:49,923 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.unhandled_email.unhandled_email.remove_o..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.unhandled_email.unhandled_email.remove_old_unhandled_emails)
+2025-04-04 05:33:50,371 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.unhandled_email.unhandled_email.remove_old_unhandled_emails)
+2025-04-04 05:33:50,371 Result is kept for 600 seconds
+2025-04-04 05:33:50,378 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_re..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_repeat_as_completed)
+2025-04-04 05:33:50,454 home-ag-scheduling_bench:long: Job OK (nexforce.test::scheduled_job::frappe.integrations.doctype.google_drive.google_drive.daily_backup)
+2025-04-04 05:33:50,454 Result is kept for 600 seconds
+2025-04-04 05:33:50,462 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.auto_email_report.auto_email_report.send..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.auto_email_report.auto_email_report.send_daily)
+2025-04-04 05:33:50,793 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_repeat_as_completed)
+2025-04-04 05:33:50,794 Result is kept for 600 seconds
+2025-04-04 05:33:50,800 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_repeat_entry)
+2025-04-04 05:33:50,933 home-ag-scheduling_bench:long: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.auto_email_report.auto_email_report.send_daily)
+2025-04-04 05:33:50,934 Result is kept for 600 seconds
+2025-04-04 05:33:50,940 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily)
+2025-04-04 05:33:51,206 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_repeat_entry)
+2025-04-04 05:33:51,206 Result is kept for 600 seconds
+2025-04-04 05:33:51,213 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_contacts.google_contacts.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.integrations.doctype.google_contacts.google_contacts.sync)
+2025-04-04 05:33:51,358 home-ag-scheduling_bench:long: Job OK (nexforce.test::scheduled_job::frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily)
+2025-04-04 05:33:51,359 Result is kept for 600 seconds
+2025-04-04 05:33:51,365 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.change_log.check_for_update)
+2025-04-04 05:33:51,643 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.integrations.doctype.google_contacts.google_contacts.sync)
+2025-04-04 05:33:51,643 Result is kept for 600 seconds
+2025-04-04 05:33:51,649 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.social.doctype.energy_point_settings.energy_point_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.social.doctype.energy_point_settings.energy_point_settings.allocate_review_points)
+2025-04-04 05:33:52,015 home-ag-scheduling_bench:long: Job OK (nexforce.test::scheduled_job::frappe.utils.change_log.check_for_update)
+2025-04-04 05:33:52,016 Result is kept for 600 seconds
+2025-04-04 05:33:52,021 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_daily)
+2025-04-04 05:33:52,054 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.social.doctype.energy_point_settings.energy_point_settings.allocate_review_points)
+2025-04-04 05:33:52,054 Result is kept for 600 seconds
+2025-04-04 05:33:52,061 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_daily_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.desk.form.document_follow.send_daily_updates)
+2025-04-04 05:33:52,413 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.desk.form.document_follow.send_daily_updates)
+2025-04-04 05:33:52,413 Result is kept for 600 seconds
+2025-04-04 05:33:52,419 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.personal_data_deletion_request.persona..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record)
+2025-04-04 05:33:52,447 home-ag-scheduling_bench:long: Job OK (nexforce.test::scheduled_job::frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_daily)
+2025-04-04 05:33:52,447 Result is kept for 600 seconds
+2025-04-04 05:33:52,455 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.notification.notification.trigger_daily_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.notification.notification.trigger_daily_alerts)
+2025-04-04 05:33:52,746 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record)
+2025-04-04 05:33:52,747 Result is kept for 600 seconds
+2025-04-04 05:33:52,752 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.sessions.clear_expired_sessions'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.sessions.clear_expired_sessions)
+2025-04-04 05:33:52,790 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.notification.notification.trigger_daily_alerts)
+2025-04-04 05:33:52,790 Result is kept for 600 seconds
+2025-04-04 05:33:52,796 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.doctype.event.event.send_event_digest'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.desk.doctype.event.event.send_event_digest)
+2025-04-04 05:33:53,090 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.sessions.clear_expired_sessions)
+2025-04-04 05:33:53,090 Result is kept for 600 seconds
+2025-04-04 05:33:53,096 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.notifications.clear_notifications'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.desk.notifications.clear_notifications)
+2025-04-04 05:33:53,149 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.desk.doctype.event.event.send_event_digest)
+2025-04-04 05:33:53,149 Result is kept for 600 seconds
+2025-04-04 05:33:53,155 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.set_expiry_for_email_queue'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.set_expiry_for_email_queue)
+2025-04-04 05:33:53,483 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.desk.notifications.clear_notifications)
+2025-04-04 05:33:53,483 Result is kept for 600 seconds
+2025-04-04 05:33:53,489 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.personal_data_deletion_request.persona..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request)
+2025-04-04 05:33:53,615 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.set_expiry_for_email_queue)
+2025-04-04 05:33:53,615 Result is kept for 600 seconds
+2025-04-04 05:33:53,621 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.newsletter.newsletter.send_scheduled_ema..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.newsletter.newsletter.send_scheduled_email)
+2025-04-04 05:33:53,862 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request)
+2025-04-04 05:33:53,862 Result is kept for 600 seconds
+2025-04-04 05:33:53,868 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-04-04 05:33:54,009 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.newsletter.newsletter.send_scheduled_email)
+2025-04-04 05:33:54,009 Result is kept for 600 seconds
+2025-04-04 05:33:54,015 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_hourly_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.desk.form.document_follow.send_hourly_updates)
+2025-04-04 05:33:54,309 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-04-04 05:33:54,309 Result is kept for 600 seconds
+2025-04-04 05:33:54,315 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.deferred_insert.save_to_db'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.deferred_insert.save_to_db)
+2025-04-04 05:33:54,344 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.desk.form.document_follow.send_hourly_updates)
+2025-04-04 05:33:54,344 Result is kept for 600 seconds
+2025-04-04 05:33:54,350 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.page.backups.backups.delete_downloadable_backups'..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.desk.page.backups.backups.delete_downloadable_backups)
+2025-04-04 05:33:54,656 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.deferred_insert.save_to_db)
+2025-04-04 05:33:54,656 Result is kept for 600 seconds
+2025-04-04 05:33:54,663 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.error.collect_error_snapshots'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.error.collect_error_snapshots)
+2025-04-04 05:33:54,687 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.desk.page.backups.backups.delete_downloadable_backups)
+2025-04-04 05:33:54,687 Result is kept for 600 seconds
+2025-04-04 05:33:54,693 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.user_settings.sync_user_settings'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.model.utils.user_settings.sync_user_settings)
+2025-04-04 05:33:55,045 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.model.utils.user_settings.sync_user_settings)
+2025-04-04 05:33:55,045 Result is kept for 600 seconds
+2025-04-04 05:33:55,051 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.link_count.update_link_count'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.model.utils.link_count.update_link_count)
+2025-04-04 05:33:55,412 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.model.utils.link_count.update_link_count)
+2025-04-04 05:33:55,412 Result is kept for 600 seconds
+2025-04-04 05:33:55,419 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:33:55,735 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:33:55,735 Result is kept for 600 seconds
+2025-04-04 05:33:55,741 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:33:56,076 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:33:56,076 Result is kept for 600 seconds
+2025-04-04 05:33:56,082 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:33:56,200 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.error.collect_error_snapshots)
+2025-04-04 05:33:56,200 Result is kept for 600 seconds
+2025-04-04 05:33:56,206 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:33:56,446 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:33:56,446 Result is kept for 600 seconds
+2025-04-04 05:33:56,453 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.core.doctype.log_settings.log_settings.run_log_clean_u..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.core.doctype.log_settings.log_settings.run_log_clean_up)
+2025-04-04 05:33:56,602 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:33:56,602 Result is kept for 600 seconds
+2025-04-04 05:33:56,608 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 05:33:56,986 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 05:33:56,986 Result is kept for 600 seconds
+2025-04-04 05:33:56,987 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.core.doctype.log_settings.log_settings.run_log_clean_up)
+2025-04-04 05:33:56,987 Result is kept for 600 seconds
+2025-04-04 05:33:56,992 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.twofactor.delete_all_barcodes_for_users'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2025-04-04 05:33:56,994 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.web_page.web_page.check_publish_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2025-04-04 05:33:57,336 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2025-04-04 05:33:57,336 Result is kept for 600 seconds
+2025-04-04 05:33:57,342 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.oauth.delete_oauth2_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.oauth.delete_oauth2_data)
+2025-04-04 05:33:57,380 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2025-04-04 05:33:57,380 Result is kept for 600 seconds
+2025-04-04 05:33:57,386 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='nexforce.test', user='Administrator') (5f48d975-74a8-4dc9-a369-1f2ee1000840)
+2025-04-04 05:33:57,650 home-ag-scheduling_bench:default: Job OK (5f48d975-74a8-4dc9-a369-1f2ee1000840)
+2025-04-04 05:33:57,650 Result is kept for 600 seconds
+2025-04-04 05:33:57,727 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.oauth.delete_oauth2_data)
+2025-04-04 05:33:57,727 Result is kept for 600 seconds
+2025-04-04 05:36:19,932 Worker 1473d417e8714f1c8050110cfa341e0b [PID 11473]: warm shut down requested
+2025-04-04 05:36:19,932 Worker 5088dd0e2caa4332b97bac7a7043ac85 [PID 11474]: warm shut down requested
+2025-04-04 05:36:19,932 Unsubscribing from channel rq:pubsub:5088dd0e2caa4332b97bac7a7043ac85
+2025-04-04 05:36:19,932 Unsubscribing from channel rq:pubsub:1473d417e8714f1c8050110cfa341e0b
+2025-04-04 05:36:21,633 Worker rq:worker:f7cf21a43b7e4f11a0a7a7ce161afd1c started with PID 11740, version 1.14.1
+2025-04-04 05:36:21,633 Subscribing to channel rq:pubsub:f7cf21a43b7e4f11a0a7a7ce161afd1c
+2025-04-04 05:36:21,633 Worker rq:worker:ad2766773cd94bcfa9e2c245b9b9a89c started with PID 11741, version 1.14.1
+2025-04-04 05:36:21,633 Subscribing to channel rq:pubsub:ad2766773cd94bcfa9e2c245b9b9a89c
+2025-04-04 05:36:21,633 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:36:21,634 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:36:55,020 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function build_index_for_all_routes at 0x7ad19db3f2e0>', kwargs={}, method=<function build_index_for_all_routes at 0x7ad19db3f2e0>, site='nexforce.test', user='Administrator') (69fe7618-708a-4e25-8989-a072448df004)
+Retrieving Routes                   : [=                                       ] 3%
+2025-04-04 05:36:59,554 home-ag-scheduling_bench:long: Job OK (69fe7618-708a-4e25-8989-a072448df004)
+2025-04-04 05:36:59,554 Result is kept for 600 seconds
+2025-04-04 05:37:00,763 Worker f7cf21a43b7e4f11a0a7a7ce161afd1c [PID 11740]: warm shut down requested
+2025-04-04 05:37:00,763 Worker ad2766773cd94bcfa9e2c245b9b9a89c [PID 11741]: warm shut down requested
+2025-04-04 05:37:00,763 Unsubscribing from channel rq:pubsub:f7cf21a43b7e4f11a0a7a7ce161afd1c
+2025-04-04 05:37:00,764 Unsubscribing from channel rq:pubsub:ad2766773cd94bcfa9e2c245b9b9a89c
+2025-04-04 05:37:01,367 Worker rq:worker:9c56ac1a929f4ea3ab4aaee89653d8b4 started with PID 11911, version 1.14.1
+2025-04-04 05:37:01,367 Subscribing to channel rq:pubsub:9c56ac1a929f4ea3ab4aaee89653d8b4
+2025-04-04 05:37:01,367 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 05:37:01,375 Worker rq:worker:20717c9aae58408cab671b3ec9014c29 started with PID 11910, version 1.14.1
+2025-04-04 05:37:01,375 Subscribing to channel rq:pubsub:20717c9aae58408cab671b3ec9014c29
+2025-04-04 05:37:01,375 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 05:38:01,620 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:38:01,623 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:38:01,988 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:38:01,988 Result is kept for 600 seconds
+2025-04-04 05:38:01,989 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:38:01,989 Result is kept for 600 seconds
+2025-04-04 05:38:01,996 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:38:01,996 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:38:02,357 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:38:02,357 Result is kept for 600 seconds
+2025-04-04 05:38:02,367 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:38:02,367 Result is kept for 600 seconds
+2025-04-04 05:40:01,859 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:40:01,861 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:40:02,169 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:40:02,170 Result is kept for 600 seconds
+2025-04-04 05:40:02,170 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:40:02,170 Result is kept for 600 seconds
+2025-04-04 05:40:02,175 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:40:02,176 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:40:02,508 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:40:02,508 Result is kept for 600 seconds
+2025-04-04 05:40:02,515 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 05:40:02,558 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:40:02,558 Result is kept for 600 seconds
+2025-04-04 05:40:02,896 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 05:40:02,897 Result is kept for 600 seconds
+2025-04-04 05:44:02,693 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:44:02,695 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:44:03,013 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:44:03,014 Result is kept for 600 seconds
+2025-04-04 05:44:03,014 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:44:03,015 Result is kept for 600 seconds
+2025-04-04 05:44:03,020 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:44:03,021 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:44:03,364 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:44:03,364 Result is kept for 600 seconds
+2025-04-04 05:44:03,406 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:44:03,406 Result is kept for 600 seconds
+2025-04-04 05:45:02,913 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.twofactor.delete_all_barcodes_for_users'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2025-04-04 05:45:02,915 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.web_page.web_page.check_publish_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2025-04-04 05:45:03,247 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2025-04-04 05:45:03,248 Result is kept for 600 seconds
+2025-04-04 05:45:03,253 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.oauth.delete_oauth2_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.oauth.delete_oauth2_data)
+2025-04-04 05:45:03,293 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2025-04-04 05:45:03,293 Result is kept for 600 seconds
+2025-04-04 05:45:03,655 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.oauth.delete_oauth2_data)
+2025-04-04 05:45:03,655 Result is kept for 600 seconds
+2025-04-04 05:48:03,661 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:48:03,663 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:48:03,979 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:48:03,979 Result is kept for 600 seconds
+2025-04-04 05:48:03,979 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:48:03,980 Result is kept for 600 seconds
+2025-04-04 05:48:03,984 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-04 05:48:03,985 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-04 05:48:03,985 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-04 05:48:03,986 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:48:03,987 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:48:04,313 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:48:04,313 Result is kept for 600 seconds
+2025-04-04 05:48:04,351 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:48:04,351 Result is kept for 600 seconds
+2025-04-04 05:50:03,987 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 05:50:04,328 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 05:50:04,328 Result is kept for 600 seconds
+2025-04-04 05:52:04,266 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:52:04,268 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:52:04,623 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:52:04,623 Result is kept for 600 seconds
+2025-04-04 05:52:04,627 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:52:04,627 Result is kept for 600 seconds
+2025-04-04 05:52:04,629 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:52:04,633 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:52:04,968 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:52:04,968 Result is kept for 600 seconds
+2025-04-04 05:52:05,016 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:52:05,016 Result is kept for 600 seconds
+2025-04-04 05:56:05,482 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:56:05,484 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:56:05,801 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 05:56:05,801 Result is kept for 600 seconds
+2025-04-04 05:56:05,802 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 05:56:05,802 Result is kept for 600 seconds
+2025-04-04 05:56:05,808 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:56:05,810 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:56:06,139 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 05:56:06,139 Result is kept for 600 seconds
+2025-04-04 05:56:06,181 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 05:56:06,181 Result is kept for 600 seconds
+2025-04-04 06:00:06,188 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.personal_data_deletion_request.persona..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request)
+2025-04-04 06:00:06,190 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.newsletter.newsletter.send_scheduled_ema..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.newsletter.newsletter.send_scheduled_email)
+2025-04-04 06:00:06,579 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.process_data_deletion_request)
+2025-04-04 06:00:06,579 Result is kept for 600 seconds
+2025-04-04 06:00:06,585 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-04-04 06:00:06,597 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.newsletter.newsletter.send_scheduled_email)
+2025-04-04 06:00:06,597 Result is kept for 600 seconds
+2025-04-04 06:00:06,604 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_hourly_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.desk.form.document_follow.send_hourly_updates)
+2025-04-04 06:00:06,940 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.desk.form.document_follow.send_hourly_updates)
+2025-04-04 06:00:06,940 Result is kept for 600 seconds
+2025-04-04 06:00:06,946 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.deferred_insert.save_to_db'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.deferred_insert.save_to_db)
+2025-04-04 06:00:07,070 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.integrations.doctype.google_calendar.google_calendar.sync)
+2025-04-04 06:00:07,070 Result is kept for 600 seconds
+2025-04-04 06:00:07,077 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.page.backups.backups.delete_downloadable_backups'..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.desk.page.backups.backups.delete_downloadable_backups)
+2025-04-04 06:00:07,317 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.deferred_insert.save_to_db)
+2025-04-04 06:00:07,318 Result is kept for 600 seconds
+2025-04-04 06:00:07,324 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.error.collect_error_snapshots'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.error.collect_error_snapshots)
+2025-04-04 06:00:07,417 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.desk.page.backups.backups.delete_downloadable_backups)
+2025-04-04 06:00:07,418 Result is kept for 600 seconds
+2025-04-04 06:00:07,424 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.user_settings.sync_user_settings'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.model.utils.user_settings.sync_user_settings)
+2025-04-04 06:00:07,659 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.error.collect_error_snapshots)
+2025-04-04 06:00:07,659 Result is kept for 600 seconds
+2025-04-04 06:00:07,665 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.link_count.update_link_count'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.model.utils.link_count.update_link_count)
+2025-04-04 06:00:07,760 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.model.utils.user_settings.sync_user_settings)
+2025-04-04 06:00:07,760 Result is kept for 600 seconds
+2025-04-04 06:00:07,766 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:00:08,002 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.model.utils.link_count.update_link_count)
+2025-04-04 06:00:08,002 Result is kept for 600 seconds
+2025-04-04 06:00:08,008 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:00:08,077 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:00:08,078 Result is kept for 600 seconds
+2025-04-04 06:00:08,083 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:00:08,318 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:00:08,318 Result is kept for 600 seconds
+2025-04-04 06:00:08,324 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:00:08,410 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:00:08,410 Result is kept for 600 seconds
+2025-04-04 06:00:08,416 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 06:00:08,705 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:00:08,705 Result is kept for 600 seconds
+2025-04-04 06:00:08,711 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.twofactor.delete_all_barcodes_for_users'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2025-04-04 06:00:08,785 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 06:00:08,785 Result is kept for 600 seconds
+2025-04-04 06:00:08,792 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.web_page.web_page.check_publish_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2025-04-04 06:00:09,061 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2025-04-04 06:00:09,061 Result is kept for 600 seconds
+2025-04-04 06:00:09,067 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.oauth.delete_oauth2_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.oauth.delete_oauth2_data)
+2025-04-04 06:00:09,183 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2025-04-04 06:00:09,183 Result is kept for 600 seconds
+2025-04-04 06:00:09,424 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.oauth.delete_oauth2_data)
+2025-04-04 06:00:09,424 Result is kept for 600 seconds
+2025-04-04 06:04:07,476 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:04:07,478 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:04:07,794 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:04:07,794 Result is kept for 600 seconds
+2025-04-04 06:04:07,797 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:04:07,798 Result is kept for 600 seconds
+2025-04-04 06:04:07,800 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:04:07,804 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:04:08,130 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:04:08,130 Result is kept for 600 seconds
+2025-04-04 06:04:08,173 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:04:08,173 Result is kept for 600 seconds
+2025-04-04 06:08:08,039 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:08:08,041 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:08:08,371 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:08:08,371 Result is kept for 600 seconds
+2025-04-04 06:08:08,373 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:08:08,373 Result is kept for 600 seconds
+2025-04-04 06:08:08,378 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:08:08,379 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:08:08,702 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:08:08,702 Result is kept for 600 seconds
+2025-04-04 06:08:08,745 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:08:08,745 Result is kept for 600 seconds
+2025-04-04 06:10:08,308 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 06:10:08,668 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 06:10:08,669 Result is kept for 600 seconds
+2025-04-04 06:10:08,674 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-04 06:10:08,675 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-04 06:12:08,633 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:12:08,635 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:12:08,994 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:12:08,994 Result is kept for 600 seconds
+2025-04-04 06:12:08,995 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:12:08,995 Result is kept for 600 seconds
+2025-04-04 06:12:08,999 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-04 06:12:09,001 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:12:09,001 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:12:09,359 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:12:09,359 Result is kept for 600 seconds
+2025-04-04 06:12:09,364 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:12:09,364 Result is kept for 600 seconds
+2025-04-04 06:15:08,973 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.twofactor.delete_all_barcodes_for_users'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2025-04-04 06:15:08,974 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.web_page.web_page.check_publish_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2025-04-04 06:15:09,351 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2025-04-04 06:15:09,351 Result is kept for 600 seconds
+2025-04-04 06:15:09,357 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.oauth.delete_oauth2_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.oauth.delete_oauth2_data)
+2025-04-04 06:15:09,421 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2025-04-04 06:15:09,421 Result is kept for 600 seconds
+2025-04-04 06:15:09,746 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.oauth.delete_oauth2_data)
+2025-04-04 06:15:09,746 Result is kept for 600 seconds
+2025-04-04 06:16:09,122 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:16:09,124 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:16:09,438 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:16:09,438 Result is kept for 600 seconds
+2025-04-04 06:16:09,441 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:16:09,442 Result is kept for 600 seconds
+2025-04-04 06:16:09,445 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:16:09,448 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:16:09,783 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:16:09,783 Result is kept for 600 seconds
+2025-04-04 06:16:09,830 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:16:09,830 Result is kept for 600 seconds
+2025-04-04 06:20:09,701 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:20:09,703 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:20:10,024 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:20:10,024 Result is kept for 600 seconds
+2025-04-04 06:20:10,025 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:20:10,025 Result is kept for 600 seconds
+2025-04-04 06:20:10,030 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:20:10,032 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:20:10,360 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:20:10,360 Result is kept for 600 seconds
+2025-04-04 06:20:10,366 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 06:20:10,403 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:20:10,403 Result is kept for 600 seconds
+2025-04-04 06:20:10,710 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 06:20:10,711 Result is kept for 600 seconds
+2025-04-04 06:22:39,376 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.document.execute_action', kwargs={'__doctype': 'DocType', '__name': 'Customer', '__action': '_rename', 'name..., method='frappe.model.document.execute_action', site='nexforce.test', user='Administrator') (184c0362-c93a-4611-831f-08df6bf2af73)
+2025-04-04 06:24:10,539 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:24:10,544 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:24:10,866 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:24:10,866 Result is kept for 600 seconds
+2025-04-04 06:24:10,873 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:24:10,875 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:24:10,875 Result is kept for 600 seconds
+2025-04-04 06:24:10,882 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:24:11,202 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:24:11,203 Result is kept for 600 seconds
+2025-04-04 06:24:11,251 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:24:11,251 Result is kept for 600 seconds
+2025-04-04 06:28:11,463 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:28:11,465 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:28:11,789 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:28:11,790 Result is kept for 600 seconds
+2025-04-04 06:28:11,790 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:28:11,790 Result is kept for 600 seconds
+2025-04-04 06:28:11,796 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:28:11,796 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:28:12,116 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:28:12,116 Result is kept for 600 seconds
+2025-04-04 06:28:12,160 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:28:12,160 Result is kept for 600 seconds
+2025-04-04 06:30:12,315 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 06:30:12,317 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.twofactor.delete_all_barcodes_for_users'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2025-04-04 06:30:12,669 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2025-04-04 06:30:12,669 Result is kept for 600 seconds
+2025-04-04 06:30:12,675 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-04 06:30:12,676 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-04 06:30:12,677 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.web_page.web_page.check_publish_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2025-04-04 06:30:12,678 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 06:30:12,678 Result is kept for 600 seconds
+2025-04-04 06:30:12,685 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.oauth.delete_oauth2_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.oauth.delete_oauth2_data)
+2025-04-04 06:30:13,041 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.oauth.delete_oauth2_data)
+2025-04-04 06:30:13,041 Result is kept for 600 seconds
+2025-04-04 06:30:13,064 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2025-04-04 06:30:13,064 Result is kept for 600 seconds
+2025-04-04 06:32:12,623 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:32:12,625 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:32:12,954 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:32:12,954 Result is kept for 600 seconds
+2025-04-04 06:32:12,955 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:32:12,955 Result is kept for 600 seconds
+2025-04-04 06:32:12,959 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:32:12,961 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:32:13,288 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:32:13,288 Result is kept for 600 seconds
+2025-04-04 06:32:13,327 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:32:13,327 Result is kept for 600 seconds
+2025-04-04 06:36:13,421 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:36:13,423 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:36:13,752 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:36:13,752 Result is kept for 600 seconds
+2025-04-04 06:36:13,755 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:36:13,755 Result is kept for 600 seconds
+2025-04-04 06:36:13,758 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:36:13,761 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-04 06:36:13,763 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:36:14,092 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:36:14,092 Result is kept for 600 seconds
+2025-04-04 06:36:14,138 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:36:14,138 Result is kept for 600 seconds
+2025-04-04 06:40:14,608 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:40:14,610 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:40:14,927 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:40:14,927 Result is kept for 600 seconds
+2025-04-04 06:40:14,928 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:40:14,928 Result is kept for 600 seconds
+2025-04-04 06:40:14,934 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:40:14,934 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:40:15,252 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:40:15,252 Result is kept for 600 seconds
+2025-04-04 06:40:15,258 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 06:40:15,294 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:40:15,294 Result is kept for 600 seconds
+2025-04-04 06:40:15,596 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 06:40:15,596 Result is kept for 600 seconds
+2025-04-04 06:44:15,184 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:44:15,186 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:44:15,498 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:44:15,498 Result is kept for 600 seconds
+2025-04-04 06:44:15,499 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:44:15,499 Result is kept for 600 seconds
+2025-04-04 06:44:15,504 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:44:15,505 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:44:15,837 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:44:15,837 Result is kept for 600 seconds
+2025-04-04 06:44:15,878 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:44:15,878 Result is kept for 600 seconds
+2025-04-04 06:45:15,888 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.twofactor.delete_all_barcodes_for_users'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2025-04-04 06:45:15,889 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.web_page.web_page.check_publish_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2025-04-04 06:45:16,237 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.twofactor.delete_all_barcodes_for_users)
+2025-04-04 06:45:16,237 Result is kept for 600 seconds
+2025-04-04 06:45:16,244 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.oauth.delete_oauth2_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.oauth.delete_oauth2_data)
+2025-04-04 06:45:16,281 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.website.doctype.web_page.web_page.check_publish_status)
+2025-04-04 06:45:16,281 Result is kept for 600 seconds
+2025-04-04 06:45:16,603 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.oauth.delete_oauth2_data)
+2025-04-04 06:45:16,603 Result is kept for 600 seconds
+2025-04-04 06:48:16,992 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:48:16,994 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:48:17,307 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:48:17,307 Result is kept for 600 seconds
+2025-04-04 06:48:17,308 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:48:17,308 Result is kept for 600 seconds
+2025-04-04 06:48:17,312 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-04 06:48:17,313 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-04 06:48:17,315 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:48:17,315 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:48:17,700 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:48:17,700 Result is kept for 600 seconds
+2025-04-04 06:48:17,703 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:48:17,703 Result is kept for 600 seconds
+2025-04-04 06:50:17,202 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 06:50:17,547 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.pull)
+2025-04-04 06:50:17,547 Result is kept for 600 seconds
+2025-04-04 06:52:17,493 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:52:17,495 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:52:17,807 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.utils.global_search.sync_global_search)
+2025-04-04 06:52:17,807 Result is kept for 600 seconds
+2025-04-04 06:52:17,808 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.monitor.flush)
+2025-04-04 06:52:17,808 Result is kept for 600 seconds
+2025-04-04 06:52:17,814 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:52:17,814 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='nexforce.test', user='Administrator') (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:52:18,152 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.doctype.email_account.email_account.notify_unreplied)
+2025-04-04 06:52:18,152 Result is kept for 600 seconds
+2025-04-04 06:52:18,190 home-ag-scheduling_bench:default: Job OK (nexforce.test::scheduled_job::frappe.email.queue.flush)
+2025-04-04 06:52:18,190 Result is kept for 600 seconds
