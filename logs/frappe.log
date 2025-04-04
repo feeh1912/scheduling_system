@@ -58,3 +58,6 @@ Form Dict: {}
 2025-04-04 03:14:30,531 ERROR frappe New Exception collected with id: 2025-04-04 03:14:30.410957-127.0.0.1-4fe
 Site: nexforce.test
 Form Dict: {}
+2025-04-04 03:51:33,518 ERROR frappe New Exception collected with id: 2025-04-04 03:51:33.429406-127.0.0.1-11a
+Site: nexforce.test
+Form Dict: {}
