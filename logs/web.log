@@ -1,0 +1,98 @@
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+
+Traceback (most recent call last):
+  File "apps/frappe/frappe/app.py", line 87, in application
+    init_request(request)
+  File "apps/frappe/frappe/app.py", line 166, in init_request
+    raise frappe.SessionStopped("Session Stopped")
+frappe.exceptions.SessionStopped: Session Stopped
+

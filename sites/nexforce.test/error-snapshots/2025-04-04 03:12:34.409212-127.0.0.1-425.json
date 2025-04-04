@@ -1,0 +1,135 @@
+{
+ "etype": "SessionStopped",
+ "evalue": "SessionStopped('Session Stopped')",
+ "exception": {
+  "args": [
+   40,
+   39,
+   83,
+   101,
+   115,
+   115,
+   105,
+   111,
+   110,
+   32,
+   83,
+   116,
+   111,
+   112,
+   112,
+   101,
+   100,
+   39,
+   44,
+   41
+  ],
+  "http_status_code": [
+   53,
+   48,
+   51
+  ],
+  "with_traceback": [
+   60,
+   98,
+   117,
+   105,
+   108,
+   116,
+   45,
+   105,
+   110,
+   32,
+   109,
+   101,
+   116,
+   104,
+   111,
+   100,
+   32,
+   119,
+   105,
+   116,
+   104,
+   95,
+   116,
+   114,
+   97,
+   99,
+   101,
+   98,
+   97,
+   99,
+   107,
+   32,
+   111,
+   102,
+   32,
+   83,
+   101,
+   115,
+   115,
+   105,
+   111,
+   110,
+   83,
+   116,
+   111,
+   112,
+   112,
+   101,
+   100,
+   32,
+   111,
+   98,
+   106,
+   101,
+   99,
+   116,
+   62
+  ]
+ },
+ "frames": [
+  {
+   "call": "(request=<Request 'https://nexforce.test/assets/frappe/dist/css/website.bundle.DT5HVFTX.css' [GET]>)",
+   "dump": {
+    "global init_request": "<function init_request>",
+    "request": "<Request 'https://nexforce.test/assets/frappe/dist/css/website.bundle.DT5HVFTX.css' [GET]>"
+   },
+   "file": "/home/ag/scheduling_bench/apps/frappe/frappe/app.py",
+   "func": "application",
+   "lines": {
+    "85": "\t\trollback = True",
+    "86": "",
+    "87": "\t\tinit_request(request)",
+    "88": "",
+    "89": "\t\tfrappe.api.validate_auth()"
+   },
+   "lnum": 87
+  },
+  {
+   "call": "(request=<Request 'https://nexforce.test/assets/frappe/dist/css/website.bundle.DT5HVFTX.css' [GET]>)",
+   "dump": {
+    "frappe. SessionStopped": "<class 'frappe.exceptions.SessionStopped'>",
+    "global frappe": "<module 'frappe' from '/home/ag/scheduling_bench/apps/frappe/frappe/__init__.py'>"
+   },
+   "file": "/home/ag/scheduling_bench/apps/frappe/frappe/app.py",
+   "func": "init_request",
+   "lines": {
+    "164": "\t\t\tsetup_read_only_mode()",
+    "165": "\t\telse:",
+    "166": "\t\t\traise frappe.SessionStopped(\"Session Stopped\")",
+    "167": "\telse:",
+    "168": "\t\tfrappe.connect(set_admin_as_user=False)"
+   },
+   "lnum": 166
+  }
+ ],
+ "locals": {
+  "request": "<Request 'https://nexforce.test/assets/frappe/dist/css/website.bundle.DT5HVFTX.css' [GET]>",
+  "site": "nexforce.test"
+ },
+ "pyver": "Python 3.10.16: /home/ag/scheduling_bench/env/bin/python (prefix: /home/ag/scheduling_bench/env)",
+ "timestamp": "2025-04-04 03:12:34.409266",
+ "traceback": "Traceback (most recent call last):\n  File \"/home/ag/scheduling_bench/apps/frappe/frappe/app.py\", line 87, in application\n    init_request(request)\n  File \"/home/ag/scheduling_bench/apps/frappe/frappe/app.py\", line 166, in init_request\n    raise frappe.SessionStopped(\"Session Stopped\")\nfrappe.exceptions.SessionStopped: Session Stopped\n"
+}

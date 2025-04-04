@@ -1,0 +1,508 @@
+2025-04-03 03:43:26,981 Worker rq:worker:5b994f9be8be448fa10e82d7b7c55806 started with PID 36919, version 1.14.1
+2025-04-03 03:43:26,982 Subscribing to channel rq:pubsub:5b994f9be8be448fa10e82d7b7c55806
+2025-04-03 03:43:26,982 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 03:43:26,983 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 03:43:26,983 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 03:43:27,035 Worker rq:worker:cb4182a6456c4ec8ae646d83d4c8bfca started with PID 36920, version 1.14.1
+2025-04-03 03:43:27,035 Subscribing to channel rq:pubsub:cb4182a6456c4ec8ae646d83d4c8bfca
+2025-04-03 03:43:27,036 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 03:43:27,036 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 03:50:12,146 Worker 5b994f9be8be448fa10e82d7b7c55806 [PID 36919]: warm shut down requested
+2025-04-03 03:50:12,146 Worker cb4182a6456c4ec8ae646d83d4c8bfca [PID 36920]: warm shut down requested
+2025-04-03 03:50:12,146 Unsubscribing from channel rq:pubsub:cb4182a6456c4ec8ae646d83d4c8bfca
+2025-04-03 03:50:12,147 Unsubscribing from channel rq:pubsub:5b994f9be8be448fa10e82d7b7c55806
+2025-04-03 03:50:13,731 Worker rq:worker:5d8722c721c148f9a66791b22e6a6806 started with PID 37335, version 1.14.1
+2025-04-03 03:50:13,731 Subscribing to channel rq:pubsub:5d8722c721c148f9a66791b22e6a6806
+2025-04-03 03:50:13,732 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 03:50:13,741 Worker rq:worker:5deb14fd46b94072a5037ef88d80b477 started with PID 37336, version 1.14.1
+2025-04-03 03:50:13,741 Subscribing to channel rq:pubsub:5deb14fd46b94072a5037ef88d80b477
+2025-04-03 03:50:13,741 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 03:54:34,415 Worker 5d8722c721c148f9a66791b22e6a6806 [PID 37335]: warm shut down requested
+2025-04-03 03:54:34,415 Worker 5deb14fd46b94072a5037ef88d80b477 [PID 37336]: warm shut down requested
+2025-04-03 03:54:34,435 Unsubscribing from channel rq:pubsub:5d8722c721c148f9a66791b22e6a6806
+2025-04-03 03:54:34,451 Unsubscribing from channel rq:pubsub:5deb14fd46b94072a5037ef88d80b477
+2025-04-03 03:54:36,528 Worker rq:worker:cbdc22d993ba4bc1b7018245b9894fe3 started with PID 37638, version 1.14.1
+2025-04-03 03:54:36,528 Subscribing to channel rq:pubsub:cbdc22d993ba4bc1b7018245b9894fe3
+2025-04-03 03:54:36,529 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 03:54:36,618 Worker rq:worker:8fb5a45b030e4d82930db4506794b13f started with PID 37639, version 1.14.1
+2025-04-03 03:54:36,618 Subscribing to channel rq:pubsub:8fb5a45b030e4d82930db4506794b13f
+2025-04-03 03:54:36,618 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 04:05:18,927 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 04:05:18,927 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 04:05:18,928 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 04:07:34,377 Worker cbdc22d993ba4bc1b7018245b9894fe3 [PID 37638]: warm shut down requested
+2025-04-03 04:07:34,377 Worker 8fb5a45b030e4d82930db4506794b13f [PID 37639]: warm shut down requested
+2025-04-03 04:07:34,378 Unsubscribing from channel rq:pubsub:8fb5a45b030e4d82930db4506794b13f
+2025-04-03 04:07:34,378 Unsubscribing from channel rq:pubsub:cbdc22d993ba4bc1b7018245b9894fe3
+2025-04-03 04:08:30,275 Worker rq:worker:5fc5fd4558ef43bfb99926ee6e75f52c started with PID 1223, version 1.14.1
+2025-04-03 04:08:30,275 Subscribing to channel rq:pubsub:5fc5fd4558ef43bfb99926ee6e75f52c
+2025-04-03 04:08:30,276 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 04:08:30,276 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 04:08:30,296 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 04:08:30,275 Worker rq:worker:29be7041c3b94fa5b71653be873b8cfc started with PID 1224, version 1.14.1
+2025-04-03 04:08:30,276 Subscribing to channel rq:pubsub:29be7041c3b94fa5b71653be873b8cfc
+2025-04-03 04:08:30,276 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 04:08:30,276 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 04:11:21,507 Worker 5fc5fd4558ef43bfb99926ee6e75f52c [PID 1223]: warm shut down requested
+2025-04-03 04:11:21,508 Unsubscribing from channel rq:pubsub:5fc5fd4558ef43bfb99926ee6e75f52c
+2025-04-03 04:11:21,507 Worker 29be7041c3b94fa5b71653be873b8cfc [PID 1224]: warm shut down requested
+2025-04-03 04:11:21,508 Unsubscribing from channel rq:pubsub:29be7041c3b94fa5b71653be873b8cfc
+2025-04-03 04:13:01,099 Worker rq:worker:d903bea38e464598a1d718ef23d5b168 started with PID 1217, version 1.14.1
+2025-04-03 04:13:01,099 Worker rq:worker:d1a69a11a45540c7add9159647d7f49e started with PID 1216, version 1.14.1
+2025-04-03 04:13:01,099 Subscribing to channel rq:pubsub:d1a69a11a45540c7add9159647d7f49e
+2025-04-03 04:13:01,100 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 04:13:01,099 Subscribing to channel rq:pubsub:d903bea38e464598a1d718ef23d5b168
+2025-04-03 04:13:01,100 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 04:18:28,267 Worker d903bea38e464598a1d718ef23d5b168 [PID 1217]: warm shut down requested
+2025-04-03 04:18:28,268 Worker d1a69a11a45540c7add9159647d7f49e [PID 1216]: warm shut down requested
+2025-04-03 04:18:28,268 Unsubscribing from channel rq:pubsub:d1a69a11a45540c7add9159647d7f49e
+2025-04-03 04:18:28,268 Unsubscribing from channel rq:pubsub:d903bea38e464598a1d718ef23d5b168
+2025-04-03 15:55:30,734 Worker rq:worker:a74e8cbb7e864b4584507ce9e796a4d8 started with PID 1224, version 1.14.1
+2025-04-03 15:55:30,734 Worker rq:worker:bae71ef1a2c94ba6b7de9180634316df started with PID 1225, version 1.14.1
+2025-04-03 15:55:30,734 Subscribing to channel rq:pubsub:bae71ef1a2c94ba6b7de9180634316df
+2025-04-03 15:55:30,735 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 15:55:30,735 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 15:55:30,734 Subscribing to channel rq:pubsub:a74e8cbb7e864b4584507ce9e796a4d8
+2025-04-03 15:55:30,735 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 15:55:30,735 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 15:55:30,775 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 16:22:30,935 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 16:22:30,935 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 16:22:30,936 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 16:49:31,209 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 16:49:31,209 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 16:49:31,210 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 17:13:11,333 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 17:13:11,333 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 17:13:11,334 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 17:29:50,391 Worker a74e8cbb7e864b4584507ce9e796a4d8 [PID 1224]: warm shut down requested
+2025-04-03 17:29:50,401 Worker bae71ef1a2c94ba6b7de9180634316df [PID 1225]: warm shut down requested
+2025-04-03 17:29:52,204 Worker rq:worker:ef05e64391da45a6bac72135dab43260 started with PID 25379, version 1.14.1
+2025-04-03 17:29:52,204 Subscribing to channel rq:pubsub:ef05e64391da45a6bac72135dab43260
+2025-04-03 17:29:52,205 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:29:52,205 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 17:29:52,206 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 17:29:52,207 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 17:29:52,217 Worker rq:worker:937f936e508c4c5ea66a3b72ac5f8fa5 started with PID 25374, version 1.14.1
+2025-04-03 17:29:52,217 Subscribing to channel rq:pubsub:937f936e508c4c5ea66a3b72ac5f8fa5
+2025-04-03 17:29:52,217 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:32:17,712 Worker ef05e64391da45a6bac72135dab43260 [PID 25379]: warm shut down requested
+2025-04-03 17:32:17,713 Worker 937f936e508c4c5ea66a3b72ac5f8fa5 [PID 25374]: warm shut down requested
+2025-04-03 17:32:17,727 Unsubscribing from channel rq:pubsub:937f936e508c4c5ea66a3b72ac5f8fa5
+2025-04-03 17:32:17,791 Unsubscribing from channel rq:pubsub:ef05e64391da45a6bac72135dab43260
+2025-04-03 17:32:19,556 Worker rq:worker:c4e7a03886c24da3ada127c73a39f883 started with PID 25540, version 1.14.1
+2025-04-03 17:32:19,556 Subscribing to channel rq:pubsub:c4e7a03886c24da3ada127c73a39f883
+2025-04-03 17:32:19,557 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:32:19,660 Worker rq:worker:17ae43681dec417686b5e75b12ba1f28 started with PID 25541, version 1.14.1
+2025-04-03 17:32:19,660 Subscribing to channel rq:pubsub:17ae43681dec417686b5e75b12ba1f28
+2025-04-03 17:32:19,661 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:32:23,108 Worker c4e7a03886c24da3ada127c73a39f883 [PID 25540]: warm shut down requested
+2025-04-03 17:32:23,108 Unsubscribing from channel rq:pubsub:c4e7a03886c24da3ada127c73a39f883
+2025-04-03 17:32:23,108 Worker 17ae43681dec417686b5e75b12ba1f28 [PID 25541]: warm shut down requested
+2025-04-03 17:32:23,109 Unsubscribing from channel rq:pubsub:17ae43681dec417686b5e75b12ba1f28
+2025-04-03 17:32:23,762 Worker rq:worker:d7e704e5a3b24567bde54cf58f2a2c44 started with PID 25610, version 1.14.1
+2025-04-03 17:32:23,762 Subscribing to channel rq:pubsub:d7e704e5a3b24567bde54cf58f2a2c44
+2025-04-03 17:32:23,764 Worker rq:worker:79c6fdc0035a410289e1ba417d0a0c32 started with PID 25609, version 1.14.1
+2025-04-03 17:32:23,764 Subscribing to channel rq:pubsub:79c6fdc0035a410289e1ba417d0a0c32
+2025-04-03 17:32:23,764 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:32:23,766 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:33:06,359 Worker 79c6fdc0035a410289e1ba417d0a0c32 [PID 25609]: warm shut down requested
+2025-04-03 17:33:06,359 Unsubscribing from channel rq:pubsub:79c6fdc0035a410289e1ba417d0a0c32
+2025-04-03 17:33:06,359 Worker d7e704e5a3b24567bde54cf58f2a2c44 [PID 25610]: warm shut down requested
+2025-04-03 17:33:06,360 Unsubscribing from channel rq:pubsub:d7e704e5a3b24567bde54cf58f2a2c44
+2025-04-03 17:33:08,014 Worker rq:worker:1156039dfabb409aa3b26e19cbd4f1dd started with PID 25743, version 1.14.1
+2025-04-03 17:33:08,014 Subscribing to channel rq:pubsub:1156039dfabb409aa3b26e19cbd4f1dd
+2025-04-03 17:33:08,015 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:33:08,021 Worker rq:worker:eb483a6392cf49c28c95ff6aaac5c3d7 started with PID 25742, version 1.14.1
+2025-04-03 17:33:08,021 Subscribing to channel rq:pubsub:eb483a6392cf49c28c95ff6aaac5c3d7
+2025-04-03 17:33:08,021 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:34:30,260 Worker eb483a6392cf49c28c95ff6aaac5c3d7 [PID 25742]: warm shut down requested
+2025-04-03 17:34:30,308 Worker 1156039dfabb409aa3b26e19cbd4f1dd [PID 25743]: warm shut down requested
+2025-04-03 17:34:32,021 Worker rq:worker:7caa5eefb151493587a0e60cb1a83ce7 started with PID 25828, version 1.14.1
+2025-04-03 17:34:32,021 Subscribing to channel rq:pubsub:7caa5eefb151493587a0e60cb1a83ce7
+2025-04-03 17:34:32,022 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:34:32,073 Worker rq:worker:9b5c49c1a29646f0869678a3d1e83fb2 started with PID 25827, version 1.14.1
+2025-04-03 17:34:32,073 Subscribing to channel rq:pubsub:9b5c49c1a29646f0869678a3d1e83fb2
+2025-04-03 17:34:32,074 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:34:35,721 Worker 9b5c49c1a29646f0869678a3d1e83fb2 [PID 25827]: warm shut down requested
+2025-04-03 17:34:35,721 Worker 7caa5eefb151493587a0e60cb1a83ce7 [PID 25828]: warm shut down requested
+2025-04-03 17:34:35,722 Unsubscribing from channel rq:pubsub:7caa5eefb151493587a0e60cb1a83ce7
+2025-04-03 17:34:35,722 Unsubscribing from channel rq:pubsub:9b5c49c1a29646f0869678a3d1e83fb2
+2025-04-03 17:34:37,400 Worker rq:worker:f18bce5c2e17453cb832d0dce2676463 started with PID 25891, version 1.14.1
+2025-04-03 17:34:37,400 Subscribing to channel rq:pubsub:f18bce5c2e17453cb832d0dce2676463
+2025-04-03 17:34:37,400 Worker rq:worker:e26a72c0b62544b299f2f48c8b8317d9 started with PID 25892, version 1.14.1
+2025-04-03 17:34:37,400 Subscribing to channel rq:pubsub:e26a72c0b62544b299f2f48c8b8317d9
+2025-04-03 17:34:37,400 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:34:37,400 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:36:02,113 Worker rq:worker:c404980cb3834d25a7d00a1131cee29c started with PID 25970, version 1.14.1
+2025-04-03 17:36:02,113 Subscribing to channel rq:pubsub:c404980cb3834d25a7d00a1131cee29c
+2025-04-03 17:36:02,113 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:36:08,640 Worker rq:worker:357d0baf02754534873cb94b82616e94 started with PID 25982, version 1.14.1
+2025-04-03 17:36:08,640 Subscribing to channel rq:pubsub:357d0baf02754534873cb94b82616e94
+2025-04-03 17:36:08,640 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:36:44,024 Worker c404980cb3834d25a7d00a1131cee29c [PID 25970]: warm shut down requested
+2025-04-03 17:36:44,024 Worker 357d0baf02754534873cb94b82616e94 [PID 25982]: warm shut down requested
+2025-04-03 17:36:44,031 Unsubscribing from channel rq:pubsub:357d0baf02754534873cb94b82616e94
+2025-04-03 17:36:44,031 Unsubscribing from channel rq:pubsub:c404980cb3834d25a7d00a1131cee29c
+2025-04-03 17:36:46,051 Worker rq:worker:460efb87200140918caf8e980a53254a started with PID 26052, version 1.14.1
+2025-04-03 17:36:46,053 Subscribing to channel rq:pubsub:460efb87200140918caf8e980a53254a
+2025-04-03 17:36:46,053 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:36:46,087 Worker rq:worker:715da5c33c0f451499e9b0f35fb3d6d7 started with PID 26053, version 1.14.1
+2025-04-03 17:36:46,087 Subscribing to channel rq:pubsub:715da5c33c0f451499e9b0f35fb3d6d7
+2025-04-03 17:36:46,088 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:37:36,106 Worker 460efb87200140918caf8e980a53254a [PID 26052]: warm shut down requested
+2025-04-03 17:37:36,106 Worker 715da5c33c0f451499e9b0f35fb3d6d7 [PID 26053]: warm shut down requested
+2025-04-03 17:37:36,106 Unsubscribing from channel rq:pubsub:460efb87200140918caf8e980a53254a
+2025-04-03 17:37:36,106 Unsubscribing from channel rq:pubsub:715da5c33c0f451499e9b0f35fb3d6d7
+2025-04-03 17:37:36,744 Worker rq:worker:eaf92b02001c4388be4afd0f0078aebc started with PID 26290, version 1.14.1
+2025-04-03 17:37:36,744 Subscribing to channel rq:pubsub:eaf92b02001c4388be4afd0f0078aebc
+2025-04-03 17:37:36,745 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:37:36,747 Worker rq:worker:f3abfe05da34403cbc0284fe4cab1a9b started with PID 26291, version 1.14.1
+2025-04-03 17:37:36,747 Subscribing to channel rq:pubsub:f3abfe05da34403cbc0284fe4cab1a9b
+2025-04-03 17:37:36,748 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:38:44,985 Worker rq:worker:8a49c33f9f754e14926850806e2b34e0 started with PID 26363, version 1.14.1
+2025-04-03 17:38:44,985 Subscribing to channel rq:pubsub:8a49c33f9f754e14926850806e2b34e0
+2025-04-03 17:38:44,986 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:38:52,144 Worker rq:worker:59eb16321d3d43fc85af5adbf8ddd975 started with PID 26370, version 1.14.1
+2025-04-03 17:38:52,144 Subscribing to channel rq:pubsub:59eb16321d3d43fc85af5adbf8ddd975
+2025-04-03 17:38:52,145 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:39:45,814 Worker rq:worker:44c79e24ca3f4df2866e55cf481f96bf started with PID 26428, version 1.14.1
+2025-04-03 17:39:45,814 Subscribing to channel rq:pubsub:44c79e24ca3f4df2866e55cf481f96bf
+2025-04-03 17:39:45,815 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:39:50,163 Worker rq:worker:52d0eb30ccda475ba57cd08338f29dda started with PID 26435, version 1.14.1
+2025-04-03 17:39:50,163 Subscribing to channel rq:pubsub:52d0eb30ccda475ba57cd08338f29dda
+2025-04-03 17:39:50,164 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:43:09,970 Worker rq:worker:f971ec80c79246a8854e1c60df249423 started with PID 26856, version 1.14.1
+2025-04-03 17:43:09,970 Subscribing to channel rq:pubsub:f971ec80c79246a8854e1c60df249423
+2025-04-03 17:43:09,971 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:43:15,536 Worker rq:worker:02514a00987d468db4e35fce333f3952 started with PID 26864, version 1.14.1
+2025-04-03 17:43:15,537 Subscribing to channel rq:pubsub:02514a00987d468db4e35fce333f3952
+2025-04-03 17:43:15,537 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:49:31,208 Worker f971ec80c79246a8854e1c60df249423 [PID 26856]: warm shut down requested
+2025-04-03 17:49:31,208 Worker 02514a00987d468db4e35fce333f3952 [PID 26864]: warm shut down requested
+2025-04-03 17:49:31,209 Unsubscribing from channel rq:pubsub:f971ec80c79246a8854e1c60df249423
+2025-04-03 17:49:31,209 Unsubscribing from channel rq:pubsub:02514a00987d468db4e35fce333f3952
+2025-04-03 17:49:32,657 Worker rq:worker:ca574cbb29a14d259b5281ba82eaae1b started with PID 27763, version 1.14.1
+2025-04-03 17:49:32,657 Subscribing to channel rq:pubsub:ca574cbb29a14d259b5281ba82eaae1b
+2025-04-03 17:49:32,658 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:49:32,658 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 17:49:32,659 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 17:49:32,659 Worker rq:worker:cfd13c09c7ce430588dede13e36afc71 started with PID 27764, version 1.14.1
+2025-04-03 17:49:32,660 Subscribing to channel rq:pubsub:cfd13c09c7ce430588dede13e36afc71
+2025-04-03 17:49:32,660 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 17:49:32,660 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 17:56:23,833 Worker ca574cbb29a14d259b5281ba82eaae1b [PID 27763]: warm shut down requested
+2025-04-03 17:56:23,834 Unsubscribing from channel rq:pubsub:ca574cbb29a14d259b5281ba82eaae1b
+2025-04-03 17:56:23,834 Worker cfd13c09c7ce430588dede13e36afc71 [PID 27764]: warm shut down requested
+2025-04-03 17:56:23,834 Unsubscribing from channel rq:pubsub:cfd13c09c7ce430588dede13e36afc71
+2025-04-03 17:56:24,487 Worker rq:worker:435048f41978432f8f09d2a30eca35be started with PID 28017, version 1.14.1
+2025-04-03 17:56:24,487 Subscribing to channel rq:pubsub:435048f41978432f8f09d2a30eca35be
+2025-04-03 17:56:24,488 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 17:56:24,497 Worker rq:worker:c0914798a6934278958e3e2e3e430f86 started with PID 28018, version 1.14.1
+2025-04-03 17:56:24,497 Subscribing to channel rq:pubsub:c0914798a6934278958e3e2e3e430f86
+2025-04-03 17:56:24,498 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 18:09:54,617 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 18:09:54,617 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 18:09:54,618 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 18:36:54,859 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 18:36:54,859 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 18:36:54,859 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 19:03:55,047 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 19:03:55,047 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 19:03:55,048 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 19:12:05,712 Worker 435048f41978432f8f09d2a30eca35be [PID 28017]: warm shut down requested
+2025-04-03 19:12:05,712 Worker c0914798a6934278958e3e2e3e430f86 [PID 28018]: warm shut down requested
+2025-04-03 19:12:05,712 Unsubscribing from channel rq:pubsub:435048f41978432f8f09d2a30eca35be
+2025-04-03 19:12:05,712 Unsubscribing from channel rq:pubsub:c0914798a6934278958e3e2e3e430f86
+2025-04-03 19:12:06,362 Worker rq:worker:e597d533383f46ce9911f42a58173751 started with PID 30397, version 1.14.1
+2025-04-03 19:12:06,362 Subscribing to channel rq:pubsub:e597d533383f46ce9911f42a58173751
+2025-04-03 19:12:06,362 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 19:12:06,418 Worker rq:worker:92dea0636c654193873f7c1db06ccb62 started with PID 30398, version 1.14.1
+2025-04-03 19:12:06,418 Subscribing to channel rq:pubsub:92dea0636c654193873f7c1db06ccb62
+2025-04-03 19:12:06,419 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 19:14:36,305 Worker e597d533383f46ce9911f42a58173751 [PID 30397]: warm shut down requested
+2025-04-03 19:14:36,305 Worker 92dea0636c654193873f7c1db06ccb62 [PID 30398]: warm shut down requested
+2025-04-03 19:14:36,306 Unsubscribing from channel rq:pubsub:e597d533383f46ce9911f42a58173751
+2025-04-03 19:14:36,306 Unsubscribing from channel rq:pubsub:92dea0636c654193873f7c1db06ccb62
+2025-04-03 19:14:36,904 Worker rq:worker:d91ce9c81a8c46579ed60019ec4cd5c9 started with PID 30525, version 1.14.1
+2025-04-03 19:14:36,905 Subscribing to channel rq:pubsub:d91ce9c81a8c46579ed60019ec4cd5c9
+2025-04-03 19:14:36,905 Worker rq:worker:d0e0497460144865870291dddab295d9 started with PID 30526, version 1.14.1
+2025-04-03 19:14:36,905 Subscribing to channel rq:pubsub:d0e0497460144865870291dddab295d9
+2025-04-03 19:14:36,905 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 19:14:36,905 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 19:15:06,033 Worker d91ce9c81a8c46579ed60019ec4cd5c9 [PID 30525]: warm shut down requested
+2025-04-03 19:15:06,033 Worker d0e0497460144865870291dddab295d9 [PID 30526]: warm shut down requested
+2025-04-03 19:15:06,034 Unsubscribing from channel rq:pubsub:d91ce9c81a8c46579ed60019ec4cd5c9
+2025-04-03 19:15:06,034 Unsubscribing from channel rq:pubsub:d0e0497460144865870291dddab295d9
+2025-04-03 19:15:06,684 Worker rq:worker:d3db09a6f91b4ab5b73e3d3e833c0c4a started with PID 30646, version 1.14.1
+2025-04-03 19:15:06,684 Worker rq:worker:c3e7384368794a42b648dad96cbd8691 started with PID 30647, version 1.14.1
+2025-04-03 19:15:06,684 Subscribing to channel rq:pubsub:c3e7384368794a42b648dad96cbd8691
+2025-04-03 19:15:06,684 Subscribing to channel rq:pubsub:d3db09a6f91b4ab5b73e3d3e833c0c4a
+2025-04-03 19:15:06,685 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 19:15:06,685 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 19:56:25,040 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 19:56:25,040 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 19:56:25,041 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 20:23:25,232 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 20:23:25,232 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 20:23:25,233 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 20:44:39,519 home-ag-scheduling_bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='nexforce.test', user='Administrator') (2aa3d553-cdca-49ab-bae9-aec1382f4f5d)
+2025-04-03 20:44:39,797 home-ag-scheduling_bench:default: Job OK (2aa3d553-cdca-49ab-bae9-aec1382f4f5d)
+2025-04-03 20:44:39,798 Result is kept for 600 seconds
+2025-04-03 20:50:25,442 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 20:50:25,443 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 20:50:25,443 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 20:54:00,362 Worker d3db09a6f91b4ab5b73e3d3e833c0c4a [PID 30646]: warm shut down requested
+2025-04-03 20:54:00,381 Unsubscribing from channel rq:pubsub:d3db09a6f91b4ab5b73e3d3e833c0c4a
+2025-04-03 20:54:00,464 Worker c3e7384368794a42b648dad96cbd8691 [PID 30647]: warm shut down requested
+2025-04-03 20:54:00,468 Unsubscribing from channel rq:pubsub:c3e7384368794a42b648dad96cbd8691
+2025-04-03 20:54:00,948 Worker rq:worker:e57c879276e44dc490bf0bff0353f1fa started with PID 33751, version 1.14.1
+2025-04-03 20:54:00,948 Subscribing to channel rq:pubsub:e57c879276e44dc490bf0bff0353f1fa
+2025-04-03 20:54:00,949 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 20:54:00,949 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 20:54:00,951 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 20:54:01,049 Worker rq:worker:f2daefed55d94ad28184edc638643b7d started with PID 33765, version 1.14.1
+2025-04-03 20:54:01,049 Subscribing to channel rq:pubsub:f2daefed55d94ad28184edc638643b7d
+2025-04-03 20:54:01,049 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 20:54:01,049 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 21:07:42,532 Worker e57c879276e44dc490bf0bff0353f1fa [PID 33751]: warm shut down requested
+2025-04-03 21:07:42,533 Unsubscribing from channel rq:pubsub:e57c879276e44dc490bf0bff0353f1fa
+2025-04-03 21:07:42,532 Worker f2daefed55d94ad28184edc638643b7d [PID 33765]: warm shut down requested
+2025-04-03 21:07:42,534 Unsubscribing from channel rq:pubsub:f2daefed55d94ad28184edc638643b7d
+2025-04-03 21:08:36,549 Worker rq:worker:b3e1612d3b19483b827fd90c65f65b90 started with PID 1244, version 1.14.1
+2025-04-03 21:08:36,549 Worker rq:worker:647d8e04389c4f258f75144ade4d27c4 started with PID 1243, version 1.14.1
+2025-04-03 21:08:36,549 Subscribing to channel rq:pubsub:647d8e04389c4f258f75144ade4d27c4
+2025-04-03 21:08:36,550 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:08:36,549 Subscribing to channel rq:pubsub:b3e1612d3b19483b827fd90c65f65b90
+2025-04-03 21:08:36,550 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:18:40,039 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 21:18:40,040 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 21:18:40,040 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 21:24:21,428 Worker 647d8e04389c4f258f75144ade4d27c4 [PID 1243]: warm shut down requested
+2025-04-03 21:24:21,428 Worker b3e1612d3b19483b827fd90c65f65b90 [PID 1244]: warm shut down requested
+2025-04-03 21:24:21,428 Unsubscribing from channel rq:pubsub:647d8e04389c4f258f75144ade4d27c4
+2025-04-03 21:24:21,428 Unsubscribing from channel rq:pubsub:b3e1612d3b19483b827fd90c65f65b90
+2025-04-03 21:24:22,949 Worker rq:worker:2c54a976ad554abc840152c349098ab8 started with PID 7725, version 1.14.1
+2025-04-03 21:24:22,949 Subscribing to channel rq:pubsub:2c54a976ad554abc840152c349098ab8
+2025-04-03 21:24:22,950 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:24:22,950 Worker rq:worker:f3c010beaa66405188e568bce34ef529 started with PID 7726, version 1.14.1
+2025-04-03 21:24:22,950 Subscribing to channel rq:pubsub:f3c010beaa66405188e568bce34ef529
+2025-04-03 21:24:22,950 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 21:24:22,951 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:24:22,951 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 21:24:22,951 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 21:25:50,272 Worker 2c54a976ad554abc840152c349098ab8 [PID 7725]: warm shut down requested
+2025-04-03 21:25:50,272 Worker f3c010beaa66405188e568bce34ef529 [PID 7726]: warm shut down requested
+2025-04-03 21:25:50,272 Unsubscribing from channel rq:pubsub:2c54a976ad554abc840152c349098ab8
+2025-04-03 21:25:50,272 Unsubscribing from channel rq:pubsub:f3c010beaa66405188e568bce34ef529
+2025-04-03 21:25:51,753 Worker rq:worker:eef73fa331334d80b96e8db3c6968b0a started with PID 7961, version 1.14.1
+2025-04-03 21:25:51,753 Subscribing to channel rq:pubsub:eef73fa331334d80b96e8db3c6968b0a
+2025-04-03 21:25:51,754 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:25:51,754 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 21:25:51,755 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 21:25:51,755 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 21:25:51,756 Worker rq:worker:c21a7ec360d548b09e267c3c8b22f838 started with PID 7960, version 1.14.1
+2025-04-03 21:25:51,756 Subscribing to channel rq:pubsub:c21a7ec360d548b09e267c3c8b22f838
+2025-04-03 21:25:51,757 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:27:48,672 Worker c21a7ec360d548b09e267c3c8b22f838 [PID 7960]: warm shut down requested
+2025-04-03 21:27:48,672 Worker eef73fa331334d80b96e8db3c6968b0a [PID 7961]: warm shut down requested
+2025-04-03 21:27:48,672 Unsubscribing from channel rq:pubsub:c21a7ec360d548b09e267c3c8b22f838
+2025-04-03 21:27:48,672 Unsubscribing from channel rq:pubsub:eef73fa331334d80b96e8db3c6968b0a
+2025-04-03 21:27:50,151 Worker rq:worker:57369fb26d114593aa42c228b3496358 started with PID 8291, version 1.14.1
+2025-04-03 21:27:50,151 Subscribing to channel rq:pubsub:57369fb26d114593aa42c228b3496358
+2025-04-03 21:27:50,152 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:27:50,152 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 21:27:50,153 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 21:27:50,164 Worker rq:worker:ebee72bcd08044b49cd6b861cda344ce started with PID 8292, version 1.14.1
+2025-04-03 21:27:50,164 Subscribing to channel rq:pubsub:ebee72bcd08044b49cd6b861cda344ce
+2025-04-03 21:27:50,165 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:27:50,165 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 21:28:51,726 Worker rq:worker:ac596b412c0648b4bdc2c89d1159cd13 started with PID 8505, version 1.14.1
+2025-04-03 21:28:51,727 Subscribing to channel rq:pubsub:ac596b412c0648b4bdc2c89d1159cd13
+2025-04-03 21:28:51,727 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:28:51,728 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 21:28:51,728 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 21:28:51,799 Worker rq:worker:fbee0c826ff54f89955b27f8416ff8e6 started with PID 8506, version 1.14.1
+2025-04-03 21:28:51,799 Subscribing to channel rq:pubsub:fbee0c826ff54f89955b27f8416ff8e6
+2025-04-03 21:28:51,800 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:28:51,800 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 21:28:52,596 Worker ac596b412c0648b4bdc2c89d1159cd13 [PID 8505]: warm shut down requested
+2025-04-03 21:28:52,596 Worker fbee0c826ff54f89955b27f8416ff8e6 [PID 8506]: warm shut down requested
+2025-04-03 21:28:52,670 Unsubscribing from channel rq:pubsub:ac596b412c0648b4bdc2c89d1159cd13
+2025-04-03 21:28:55,741 Worker rq:worker:862e658bae21462b87e7984e46d7a0a3 started with PID 8549, version 1.14.1
+2025-04-03 21:28:55,741 Subscribing to channel rq:pubsub:862e658bae21462b87e7984e46d7a0a3
+2025-04-03 21:28:55,741 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:28:55,858 Worker rq:worker:d41d27cf45d84472981f8a9b808e7c36 started with PID 8550, version 1.14.1
+2025-04-03 21:28:55,858 Subscribing to channel rq:pubsub:d41d27cf45d84472981f8a9b808e7c36
+2025-04-03 21:28:55,859 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:28:56,365 Worker 862e658bae21462b87e7984e46d7a0a3 [PID 8549]: warm shut down requested
+2025-04-03 21:28:56,365 Worker d41d27cf45d84472981f8a9b808e7c36 [PID 8550]: warm shut down requested
+2025-04-03 21:28:56,366 Unsubscribing from channel rq:pubsub:d41d27cf45d84472981f8a9b808e7c36
+2025-04-03 21:28:56,366 Unsubscribing from channel rq:pubsub:862e658bae21462b87e7984e46d7a0a3
+2025-04-03 21:29:00,049 Worker rq:worker:c850d603784f45c4aec3ea33bc911e3c started with PID 8603, version 1.14.1
+2025-04-03 21:29:00,049 Subscribing to channel rq:pubsub:c850d603784f45c4aec3ea33bc911e3c
+2025-04-03 21:29:00,050 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:29:00,199 Worker rq:worker:5d9e09c61a284f3b8562205c34987c10 started with PID 8602, version 1.14.1
+2025-04-03 21:29:00,199 Subscribing to channel rq:pubsub:5d9e09c61a284f3b8562205c34987c10
+2025-04-03 21:29:00,200 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:30:00,925 Worker 5d9e09c61a284f3b8562205c34987c10 [PID 8602]: warm shut down requested
+2025-04-03 21:30:00,925 Worker c850d603784f45c4aec3ea33bc911e3c [PID 8603]: warm shut down requested
+2025-04-03 21:30:00,926 Unsubscribing from channel rq:pubsub:5d9e09c61a284f3b8562205c34987c10
+2025-04-03 21:30:00,926 Unsubscribing from channel rq:pubsub:c850d603784f45c4aec3ea33bc911e3c
+2025-04-03 21:30:01,468 Worker rq:worker:bf432a7db74542b9855e8e2f4b50911e started with PID 9256, version 1.14.1
+2025-04-03 21:30:01,468 Subscribing to channel rq:pubsub:bf432a7db74542b9855e8e2f4b50911e
+2025-04-03 21:30:01,468 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:30:01,470 Worker rq:worker:1ce12feebf994e7abca4f926a1355618 started with PID 9258, version 1.14.1
+2025-04-03 21:30:01,470 Subscribing to channel rq:pubsub:1ce12feebf994e7abca4f926a1355618
+2025-04-03 21:30:01,471 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:38:25,663 Worker 1ce12feebf994e7abca4f926a1355618 [PID 9258]: warm shut down requested
+2025-04-03 21:38:25,668 Worker bf432a7db74542b9855e8e2f4b50911e [PID 9256]: warm shut down requested
+2025-04-03 21:38:25,689 Unsubscribing from channel rq:pubsub:bf432a7db74542b9855e8e2f4b50911e
+2025-04-03 21:38:25,701 Unsubscribing from channel rq:pubsub:1ce12feebf994e7abca4f926a1355618
+2025-04-03 21:38:58,158 Worker rq:worker:71433b8d881b42f2883d749ca572cb08 started with PID 9597, version 1.14.1
+2025-04-03 21:38:58,158 Subscribing to channel rq:pubsub:71433b8d881b42f2883d749ca572cb08
+2025-04-03 21:38:58,160 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:38:58,170 Worker rq:worker:2606234559554bd494df23c61faf70e2 started with PID 9596, version 1.14.1
+2025-04-03 21:38:58,170 Subscribing to channel rq:pubsub:2606234559554bd494df23c61faf70e2
+2025-04-03 21:38:58,170 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:38:59,429 Worker 2606234559554bd494df23c61faf70e2 [PID 9596]: warm shut down requested
+2025-04-03 21:38:59,429 Worker 71433b8d881b42f2883d749ca572cb08 [PID 9597]: warm shut down requested
+2025-04-03 21:38:59,430 Unsubscribing from channel rq:pubsub:2606234559554bd494df23c61faf70e2
+2025-04-03 21:38:59,430 Unsubscribing from channel rq:pubsub:71433b8d881b42f2883d749ca572cb08
+2025-04-03 21:39:01,061 Worker rq:worker:3c2ac8e9d6d94e52bca0c269eba6d0db started with PID 9651, version 1.14.1
+2025-04-03 21:39:01,061 Subscribing to channel rq:pubsub:3c2ac8e9d6d94e52bca0c269eba6d0db
+2025-04-03 21:39:01,061 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:39:01,063 Worker rq:worker:fe3fe1aeb66447149bf308ca0070cfd8 started with PID 9650, version 1.14.1
+2025-04-03 21:39:01,063 Subscribing to channel rq:pubsub:fe3fe1aeb66447149bf308ca0070cfd8
+2025-04-03 21:39:01,064 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:40:32,768 Worker rq:worker:7346250410474bba92a6d2adb9eb56ed started with PID 9782, version 1.14.1
+2025-04-03 21:40:32,768 Subscribing to channel rq:pubsub:7346250410474bba92a6d2adb9eb56ed
+2025-04-03 21:40:32,768 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:40:32,771 Worker rq:worker:e1a981a883ea418a82fa42486f56ae11 started with PID 9776, version 1.14.1
+2025-04-03 21:40:32,771 Subscribing to channel rq:pubsub:e1a981a883ea418a82fa42486f56ae11
+2025-04-03 21:40:32,772 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:41:21,351 Worker 7346250410474bba92a6d2adb9eb56ed [PID 9782]: warm shut down requested
+2025-04-03 21:41:21,352 Unsubscribing from channel rq:pubsub:7346250410474bba92a6d2adb9eb56ed
+2025-04-03 21:41:21,354 Worker e1a981a883ea418a82fa42486f56ae11 [PID 9776]: warm shut down requested
+2025-04-03 21:41:21,354 Unsubscribing from channel rq:pubsub:e1a981a883ea418a82fa42486f56ae11
+2025-04-03 21:41:42,947 Worker rq:worker:5faf30df9cf04ebd9a1dee325ee5e419 started with PID 10029, version 1.14.1
+2025-04-03 21:41:42,947 Subscribing to channel rq:pubsub:5faf30df9cf04ebd9a1dee325ee5e419
+2025-04-03 21:41:42,948 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:41:43,006 Worker rq:worker:6f7c9818744c4bd89fe36d1634c019fb started with PID 10028, version 1.14.1
+2025-04-03 21:41:43,006 Subscribing to channel rq:pubsub:6f7c9818744c4bd89fe36d1634c019fb
+2025-04-03 21:41:43,007 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:41:43,809 Worker 6f7c9818744c4bd89fe36d1634c019fb [PID 10028]: warm shut down requested
+2025-04-03 21:41:43,809 Unsubscribing from channel rq:pubsub:6f7c9818744c4bd89fe36d1634c019fb
+2025-04-03 21:41:43,809 Worker 5faf30df9cf04ebd9a1dee325ee5e419 [PID 10029]: warm shut down requested
+2025-04-03 21:41:43,810 Unsubscribing from channel rq:pubsub:5faf30df9cf04ebd9a1dee325ee5e419
+2025-04-03 21:41:44,432 Worker rq:worker:dd2fbfe8ed354ab2affc31fb299a2d21 started with PID 10082, version 1.14.1
+2025-04-03 21:41:44,432 Subscribing to channel rq:pubsub:dd2fbfe8ed354ab2affc31fb299a2d21
+2025-04-03 21:41:44,432 Worker rq:worker:1461258de66e46e0b6fcd60f06f76a00 started with PID 10083, version 1.14.1
+2025-04-03 21:41:44,432 Subscribing to channel rq:pubsub:1461258de66e46e0b6fcd60f06f76a00
+2025-04-03 21:41:44,433 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:41:44,433 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:42:14,910 Worker dd2fbfe8ed354ab2affc31fb299a2d21 [PID 10082]: warm shut down requested
+2025-04-03 21:42:14,958 Worker 1461258de66e46e0b6fcd60f06f76a00 [PID 10083]: warm shut down requested
+2025-04-03 21:42:14,960 Unsubscribing from channel rq:pubsub:1461258de66e46e0b6fcd60f06f76a00
+2025-04-03 21:43:07,217 Worker rq:worker:b82ab10bea13411b81a76c94e052d89e started with PID 10209, version 1.14.1
+2025-04-03 21:43:07,217 Subscribing to channel rq:pubsub:b82ab10bea13411b81a76c94e052d89e
+2025-04-03 21:43:07,218 Worker rq:worker:4fe5ac6320f4449b95326bb97010d947 started with PID 10210, version 1.14.1
+2025-04-03 21:43:07,218 Subscribing to channel rq:pubsub:4fe5ac6320f4449b95326bb97010d947
+2025-04-03 21:43:07,218 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:43:07,219 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:47:44,303 Worker b82ab10bea13411b81a76c94e052d89e [PID 10209]: warm shut down requested
+2025-04-03 21:47:44,303 Unsubscribing from channel rq:pubsub:b82ab10bea13411b81a76c94e052d89e
+2025-04-03 21:47:44,303 Worker 4fe5ac6320f4449b95326bb97010d947 [PID 10210]: warm shut down requested
+2025-04-03 21:47:44,303 Unsubscribing from channel rq:pubsub:4fe5ac6320f4449b95326bb97010d947
+2025-04-03 21:51:57,760 Worker rq:worker:c76a60268bfc420b86bc488e1a31c273 started with PID 11680, version 1.14.1
+2025-04-03 21:51:57,761 Subscribing to channel rq:pubsub:c76a60268bfc420b86bc488e1a31c273
+2025-04-03 21:51:57,762 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 21:51:57,762 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 21:51:57,763 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 21:51:57,828 Worker rq:worker:07d2479140184059ac323f0e5f1151a3 started with PID 11681, version 1.14.1
+2025-04-03 21:51:57,829 Subscribing to channel rq:pubsub:07d2479140184059ac323f0e5f1151a3
+2025-04-03 21:51:57,829 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:51:57,830 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 21:52:29,917 Worker c76a60268bfc420b86bc488e1a31c273 [PID 11680]: warm shut down requested
+2025-04-03 21:52:29,917 Worker 07d2479140184059ac323f0e5f1151a3 [PID 11681]: warm shut down requested
+2025-04-03 21:52:29,918 Unsubscribing from channel rq:pubsub:c76a60268bfc420b86bc488e1a31c273
+2025-04-03 21:52:29,918 Unsubscribing from channel rq:pubsub:07d2479140184059ac323f0e5f1151a3
+2025-04-03 21:52:31,557 Worker rq:worker:f04541c6df6240d68fc827fdc55abb45 started with PID 11769, version 1.14.1
+2025-04-03 21:52:31,557 Subscribing to channel rq:pubsub:f04541c6df6240d68fc827fdc55abb45
+2025-04-03 21:52:31,557 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 21:52:31,563 Worker rq:worker:5beb18690c0c4730ab86d420b5152178 started with PID 11768, version 1.14.1
+2025-04-03 21:52:31,563 Subscribing to channel rq:pubsub:5beb18690c0c4730ab86d420b5152178
+2025-04-03 21:52:31,564 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 22:19:31,786 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 22:19:31,786 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 22:19:31,787 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 22:25:29,784 Worker 5beb18690c0c4730ab86d420b5152178 [PID 11768]: warm shut down requested
+2025-04-03 22:25:29,784 Worker f04541c6df6240d68fc827fdc55abb45 [PID 11769]: warm shut down requested
+2025-04-03 22:25:29,784 Unsubscribing from channel rq:pubsub:5beb18690c0c4730ab86d420b5152178
+2025-04-03 22:25:29,784 Unsubscribing from channel rq:pubsub:f04541c6df6240d68fc827fdc55abb45
+2025-04-03 22:25:30,456 Worker rq:worker:fc58a6509c8e4c8eb45b45c7a38603f0 started with PID 15069, version 1.14.1
+2025-04-03 22:25:30,456 Subscribing to channel rq:pubsub:fc58a6509c8e4c8eb45b45c7a38603f0
+2025-04-03 22:25:30,458 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 22:25:30,459 Worker rq:worker:96bd029c4c66453d97e188b87fc18fd1 started with PID 15068, version 1.14.1
+2025-04-03 22:25:30,459 Subscribing to channel rq:pubsub:96bd029c4c66453d97e188b87fc18fd1
+2025-04-03 22:25:30,463 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 22:31:45,127 Worker 96bd029c4c66453d97e188b87fc18fd1 [PID 15068]: warm shut down requested
+2025-04-03 22:31:45,127 Worker fc58a6509c8e4c8eb45b45c7a38603f0 [PID 15069]: warm shut down requested
+2025-04-03 22:31:45,128 Unsubscribing from channel rq:pubsub:96bd029c4c66453d97e188b87fc18fd1
+2025-04-03 22:31:45,128 Unsubscribing from channel rq:pubsub:fc58a6509c8e4c8eb45b45c7a38603f0
+2025-04-03 22:31:46,738 Worker rq:worker:384a5bed366e4edd8d874cd4a98a883c started with PID 15418, version 1.14.1
+2025-04-03 22:31:46,738 Subscribing to channel rq:pubsub:384a5bed366e4edd8d874cd4a98a883c
+2025-04-03 22:31:46,738 Worker rq:worker:4025f5b5b3c24c18975969ba60ccbe72 started with PID 15419, version 1.14.1
+2025-04-03 22:31:46,738 Subscribing to channel rq:pubsub:4025f5b5b3c24c18975969ba60ccbe72
+2025-04-03 22:31:46,739 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 22:31:46,739 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 22:45:16,814 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 22:45:16,814 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 22:45:16,815 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 23:12:16,932 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 23:12:16,932 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 23:12:16,933 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 23:17:59,809 home-ag-scheduling_bench:long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function build_index_for_all_routes at 0x71c55d843490>', kwargs={}, method=<function build_index_for_all_routes at 0x71c55d843490>, site='nexforce.test', user='Administrator') (0f918cbe-3c40-42e5-9ebe-b478303d57d0)
+Retrieving Routes                   : [=                                       ] 3%
+2025-04-03 23:18:04,426 home-ag-scheduling_bench:long: Job OK (0f918cbe-3c40-42e5-9ebe-b478303d57d0)
+2025-04-03 23:18:04,426 Result is kept for 600 seconds
+2025-04-03 23:18:15,023 Worker 384a5bed366e4edd8d874cd4a98a883c [PID 15418]: warm shut down requested
+2025-04-03 23:18:15,023 Unsubscribing from channel rq:pubsub:384a5bed366e4edd8d874cd4a98a883c
+2025-04-03 23:18:15,023 Worker 4025f5b5b3c24c18975969ba60ccbe72 [PID 15419]: warm shut down requested
+2025-04-03 23:18:15,024 Unsubscribing from channel rq:pubsub:4025f5b5b3c24c18975969ba60ccbe72
+2025-04-03 23:18:15,689 Worker rq:worker:2efce5168c0948379fb38e2c1afcf5f5 started with PID 16281, version 1.14.1
+2025-04-03 23:18:15,689 Subscribing to channel rq:pubsub:2efce5168c0948379fb38e2c1afcf5f5
+2025-04-03 23:18:15,690 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 23:18:15,690 Worker rq:worker:5241a479b9af46939c73583f4e4b8f8c started with PID 16280, version 1.14.1
+2025-04-03 23:18:15,690 Subscribing to channel rq:pubsub:5241a479b9af46939c73583f4e4b8f8c
+2025-04-03 23:18:15,690 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 23:22:52,786 Worker 5241a479b9af46939c73583f4e4b8f8c [PID 16280]: warm shut down requested
+2025-04-03 23:22:52,786 Worker 2efce5168c0948379fb38e2c1afcf5f5 [PID 16281]: warm shut down requested
+2025-04-03 23:22:52,786 Unsubscribing from channel rq:pubsub:5241a479b9af46939c73583f4e4b8f8c
+2025-04-03 23:22:52,786 Unsubscribing from channel rq:pubsub:2efce5168c0948379fb38e2c1afcf5f5
+2025-04-03 23:22:54,404 Worker rq:worker:b6c63f12e6db464590a3c23e680219ff started with PID 16433, version 1.14.1
+2025-04-03 23:22:54,404 Subscribing to channel rq:pubsub:b6c63f12e6db464590a3c23e680219ff
+2025-04-03 23:22:54,406 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-03 23:22:54,409 Worker rq:worker:b4f97d2b4ae940d29fff4c8319b20329 started with PID 16432, version 1.14.1
+2025-04-03 23:22:54,409 Subscribing to channel rq:pubsub:b4f97d2b4ae940d29fff4c8319b20329
+2025-04-03 23:22:54,409 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-03 23:36:24,531 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-03 23:36:24,531 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-03 23:36:24,532 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-03 23:49:29,621 Worker b4f97d2b4ae940d29fff4c8319b20329 [PID 16432]: warm shut down requested
+2025-04-03 23:49:29,622 Unsubscribing from channel rq:pubsub:b4f97d2b4ae940d29fff4c8319b20329
+2025-04-03 23:49:29,623 Worker b6c63f12e6db464590a3c23e680219ff [PID 16433]: warm shut down requested
+2025-04-03 23:49:29,624 Unsubscribing from channel rq:pubsub:b6c63f12e6db464590a3c23e680219ff
+2025-04-04 03:09:56,047 Worker rq:worker:3e35e535be6d4e5a96d70b72129763cc started with PID 70830, version 1.14.1
+2025-04-04 03:09:56,047 Subscribing to channel rq:pubsub:3e35e535be6d4e5a96d70b72129763cc
+2025-04-04 03:09:56,047 *** Listening on home-ag-scheduling_bench:short, home-ag-scheduling_bench:default...
+2025-04-04 03:09:56,048 Cleaning registries for queue: home-ag-scheduling_bench:short
+2025-04-04 03:09:56,048 Cleaning registries for queue: home-ag-scheduling_bench:default
+2025-04-04 03:09:56,059 Worker rq:worker:a7e245008218466d9480f275f6dd09dd started with PID 70831, version 1.14.1
+2025-04-04 03:09:56,060 Subscribing to channel rq:pubsub:a7e245008218466d9480f275f6dd09dd
+2025-04-04 03:09:56,060 *** Listening on home-ag-scheduling_bench:long, home-ag-scheduling_bench:default, home-ag-scheduling_bench:short...
+2025-04-04 03:09:56,061 Cleaning registries for queue: home-ag-scheduling_bench:long
+2025-04-04 03:14:14,993 Worker 3e35e535be6d4e5a96d70b72129763cc [PID 70830]: warm shut down requested
+2025-04-04 03:14:14,993 Worker a7e245008218466d9480f275f6dd09dd [PID 70831]: warm shut down requested
+2025-04-04 03:14:14,993 Unsubscribing from channel rq:pubsub:a7e245008218466d9480f275f6dd09dd
+2025-04-04 03:14:14,993 Unsubscribing from channel rq:pubsub:3e35e535be6d4e5a96d70b72129763cc

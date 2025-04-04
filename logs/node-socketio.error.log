@@ -1,0 +1,4347 @@
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1
+node:events:495
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: connect ECONNREFUSED 127.0.0.1:13000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1549:16)
+Emitted 'error' event on RedisClient instance at:
+    at RedisClient.on_error (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:342:14)
+    at Socket.<anonymous> (/home/ag/scheduling_bench/apps/frappe/node_modules/redis/index.js:223:14)
+    at Socket.emit (node:events:517:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 13000
+}
+
+Node.js v18.19.1

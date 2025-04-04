@@ -1,0 +1,434 @@
+2025-04-03 17:53:01,752 INFO ipython === bench console session ===
+2025-04-03 17:53:01,752 INFO ipython bench --site nexforce.test logs
+2025-04-03 17:53:01,752 INFO ipython === session end ===
+2025-04-03 20:15:21,943 INFO ipython === bench console session ===
+2025-04-03 20:15:21,943 INFO ipython import frappe
+
+doctype = frappe.get_doc({
+    "doctype": "DocType",
+    "module": "Scheduling System",
+    "name": "Appointment",
+    "custom": 0,
+    "fields": [
+        {"fieldname": "client_name", "fieldtype": "Data", "label": "Client Name"},
+        {"fieldname": "start_date", "fieldtype": "Datetime", "label": "Start Date"},
+        {"fieldname": "end_date", "fieldtype": "Datetime", "label": "End Date", "read_only": 1},
+        {"fieldname": "duration", "fieldtype": "Time", "label": "Duration"},
+        {"fieldname": "description", "fieldtype": "Small Text", "label": "Description"},
+        {"fieldname": "seller", "fieldtype": "Link", "label": "Seller", "options": "User"},
+        {"fieldname": "status", "fieldtype": "Select", "label": "Status", "options": "\nScheduled\nFinished\nCanceled"}
+    ]
+})
+
+doctype.insert()
+frappe.db.commit()
+quit
+2025-04-03 20:15:21,943 INFO ipython EXIT
+2025-04-03 20:15:21,943 INFO ipython QUIT
+2025-04-03 20:15:21,943 INFO ipython === session end ===
+2025-04-03 20:16:17,420 INFO ipython === bench console session ===
+2025-04-03 20:16:17,420 INFO ipython === session end ===
+2025-04-03 20:17:00,995 INFO ipython === bench console session ===
+2025-04-03 20:17:00,995 INFO ipython === session end ===
+2025-04-03 20:17:30,158 INFO ipython === bench console session ===
+2025-04-03 20:17:30,158 INFO ipython import frappe
+
+doctype = frappe.get_doc({
+    "doctype": "DocType",
+    "module": "Scheduling System",
+    "name": "Appointment",
+    "custom": 0,
+    "fields": [
+        {"fieldname": "client_name", "fieldtype": "Data", "label": "Client Name"},
+        {"fieldname": "start_date", "fieldtype": "Datetime", "label": "Start Date"},
+        {"fieldname": "end_date", "fieldtype": "Datetime", "label": "End Date", "read_only": 1},
+        {"fieldname": "duration", "fieldtype": "Time", "label": "Duration"},
+        {"fieldname": "description", "fieldtype": "Small Text", "label": "Description"},
+        {"fieldname": "seller", "fieldtype": "Link", "label": "Seller", "options": "User"},
+        {"fieldname": "status", "fieldtype": "Select", "label": "Status", "options": "\nScheduled\nFinished\nCanceled"}
+    ]
+})
+
+doctype.insert()
+frappe.db.commit()
+2025-04-03 20:17:30,158 INFO ipython === session end ===
+2025-04-03 20:19:19,625 INFO ipython === bench console session ===
+2025-04-03 20:19:19,625 INFO ipython import frappe
+frappe.get_list("Module Def", filters={"name": "Scheduling System"})
+2025-04-03 20:19:19,625 INFO ipython === session end ===
+2025-04-03 20:20:46,815 INFO ipython === bench console session ===
+2025-04-03 20:20:46,816 INFO ipython import frappe
+frappe.get_list("Module Def", filters={"name": "Scheduling System"})
+2025-04-03 20:20:46,816 INFO ipython === session end ===
+2025-04-03 20:22:08,490 INFO ipython === bench console session ===
+2025-04-03 20:22:08,490 INFO ipython import frappe
+frappe.get_list("Module Def", filters={"name": "Scheduling System"})
+2025-04-03 20:22:08,490 INFO ipython === session end ===
+2025-04-03 20:23:01,620 INFO ipython === bench console session ===
+2025-04-03 20:23:01,621 INFO ipython import frappe
+frappe.get_list("Module Def", filters={"name": "Scheduling System"})
+2025-04-03 20:23:01,621 INFO ipython === session end ===
+2025-04-03 20:24:42,433 INFO ipython === bench console session ===
+2025-04-03 20:24:42,433 INFO ipython import frappe
+
+module = frappe.get_doc({
+    "doctype": "Module Def",
+    "module_name": "Scheduling System",
+    "app_name": "scheduling_system"
+})
+
+module.insert()
+frappe.db.commit()
+2025-04-03 20:24:42,433 INFO ipython frappe.get_list("Module Def", filters={"name": "Scheduling System"})
+2025-04-03 20:24:42,433 INFO ipython frappe.get_list("Module Def", filters={"name": "Scheduling System"})
+2025-04-03 20:24:42,433 INFO ipython === session end ===
+2025-04-03 20:26:50,773 INFO ipython === bench console session ===
+2025-04-03 20:26:50,773 INFO ipython doctype = frappe.get_doc({
+    "doctype": "DocType",
+    "module": "Scheduling System",
+    "name": "Appointment",
+    "custom": 0,
+    "fields": [
+        {"fieldname": "client_name", "fieldtype": "Data", "label": "Client Name"},
+        {"fieldname": "start_date", "fieldtype": "Datetime", "label": "Start Date"},
+        {"fieldname": "end_date", "fieldtype": "Datetime", "label": "End Date", "read_only": 1},
+        {"fieldname": "duration", "fieldtype": "Time", "label": "Duration"},
+        {"fieldname": "description", "fieldtype": "Small Text", "label": "Description"},
+        {"fieldname": "seller", "fieldtype": "Link", "label": "Seller", "options": "User"},
+        {"fieldname": "status", "fieldtype": "Select", "label": "Status", "options": "\nScheduled\nFinished\nCanceled"}
+    ]
+})
+
+doctype.insert()
+frappe.db.commit()
+2025-04-03 20:26:50,774 INFO ipython frappe.get_list("DocType", filters={"name": "Appointment"})
+2025-04-03 20:26:50,774 INFO ipython === session end ===
+2025-04-03 20:35:32,518 INFO ipython === bench console session ===
+2025-04-03 20:35:32,518 INFO ipython import frappe
+
+doctype = frappe.get_doc("DocType", "Appointment")
+doctype.view_settings = {
+    "calendar": {
+        "field_map": {
+            "start": "start_date",
+            "end": "end_date",
+            "title": "client_name"
+        },
+        "order_by": "start_date",
+        "color": "blue"
+    }
+}
+doctype.save()
+frappe.db.commit()
+2025-04-03 20:35:32,519 INFO ipython === session end ===
+2025-04-03 20:37:13,530 INFO ipython === bench console session ===
+2025-04-03 20:37:13,530 INFO ipython import frappe
+
+# Pegando o Doctype "Appointment"
+doctype = frappe.get_doc("DocType", "Appointment")
+
+# Configurando a visualização de calendário
+doctype.calendar_view = 1  # Ativa a visualização de calendário
+doctype.view_settings = {
+    "calendar": {
+        "field_map": {
+            "start": "start_date",  # Define o campo de início
+            "end": "end_date",      # Define o campo de fim
+            "title": "client_name"  # Define o título do evento
+        },
+        "order_by": "start_date",
+        "color": "blue"  # Define a cor dos eventos no calendário
+    }
+}
+
+# Salvando as alterações
+doctype.save()
+frappe.db.commit()
+2025-04-03 20:37:13,530 INFO ipython === session end ===
+2025-04-03 20:40:00,503 INFO ipython === bench console session ===
+2025-04-03 20:40:00,503 INFO ipython import frappe
+frappe.get_list("User", fields=["name"])
+2025-04-03 20:40:00,503 INFO ipython === session end ===
+2025-04-03 20:44:45,462 INFO ipython === bench console session ===
+2025-04-03 20:44:45,462 INFO ipython admin = frappe.get_doc("User", "Administrator")
+admin.email = "admin@example.com"
+admin.save()
+frappe.db.commit()
+2025-04-03 20:44:45,462 INFO ipython === session end ===
+2025-04-03 21:17:02,031 INFO ipython === bench console session ===
+2025-04-03 21:17:02,039 INFO ipython frappe.new_doc("DocType", {
+    "module": "Scheduling System",
+    "name": "Appointment",
+    "custom": 1,  # Indica que é um Doctype personalizado
+    "fields": [
+        {
+            "fieldname": "customer",
+            "fieldtype": "Link",
+            "options": "Customer",
+            "label": "Customer",
+            "reqd": 1
+        },
+        {
+            "fieldname": "appointment_date",
+            "fieldtype": "Date",
+            "label": "Appointment Date",
+            "reqd": 1
+        },
+        {
+            "fieldname": "appointment_time",
+            "fieldtype": "Time",
+            "label": "Appointment Time",
+            "reqd": 1
+        },
+        {
+            "fieldname": "status",
+            "fieldtype": "Select",
+            "label": "Status",
+            "options": "Scheduled\nCompleted\nCancelled",
+            "reqd": 1
+        }
+    ]
+}).insert()
+2025-04-03 21:17:02,039 INFO ipython === session end ===
+2025-04-03 22:09:57,491 INFO ipython === bench console session ===
+2025-04-03 22:09:57,492 INFO ipython import frappe
+users = frappe.get_all('User')
+print(users)
+2025-04-03 22:09:57,492 INFO ipython === session end ===
+2025-04-03 22:21:49,575 INFO ipython === bench console session ===
+2025-04-03 22:21:49,575 INFO ipython === session end ===
+2025-04-03 22:25:23,466 INFO ipython === bench console session ===
+2025-04-03 22:25:23,467 INFO ipython # Acessando o usuário Administrator (ou qualquer outro)
+user = frappe.get_doc("User", "Administrator")  # Substitua "Administrator" pelo nome do usuário se for outro
+
+# Verificando o e-mail
+print(user.email)
+
+# Alterando o e-mail, se necessário
+user.email = "novoemail@dominio.com"  # Coloque o novo e-mail desejado
+user.save()
+2025-04-03 22:25:23,467 INFO ipython # Acessando o usuário Administrator
+user = frappe.get_doc("User", "Administrator")
+
+# Definindo uma nova senha
+user.password = 12345678  # Substitua por sua nova senha
+
+# Salvando a alteração
+user.save()
+2025-04-03 22:25:23,467 INFO ipython === session end ===
+2025-04-03 22:31:10,215 INFO ipython === bench console session ===
+2025-04-03 22:31:10,215 INFO ipython user = frappe.get_doc("User", "Administrator")
+print(user.email)
+print(user.password)
+2025-04-03 22:31:10,215 INFO ipython user.set_password(12345678)  # Substitua pela senha desejada
+user.save()
+2025-04-03 22:31:10,215 INFO ipython user.set_password("nova_senha_123")  # Substitua pela senha desejada
+user.save()
+2025-04-03 22:31:10,215 INFO ipython from frappe.auth import PasswordHasher
+
+# Encontrar o usuário
+user = frappe.get_doc("User", "Administrator")
+
+# Definir nova senha
+password_hasher = PasswordHasher()
+user.password = password_hasher.hash(12345678)  # Substitua pela senha desejada
+
+# Salvar
+user.save()
+2025-04-03 22:31:10,215 INFO ipython from frappe.auth import PasswordHasher
+
+# Encontrar o usuário
+user = frappe.get_doc("User", "Administrator")
+
+# Definir nova senha
+password_hasher = PasswordHasher()
+user.password = password_hasher.hash("nova_senha_123")  # Substitua pela senha desejada
+
+# Salvar
+user.save()
+2025-04-03 22:31:10,215 INFO ipython frappe.set_user_password('Administrator', 'nova_senha_123')  # Substitua pela senha desejada
+2025-04-03 22:31:10,215 INFO ipython === session end ===
+2025-04-03 22:33:22,293 INFO ipython === bench console session ===
+2025-04-03 22:33:22,293 INFO ipython user = frappe.get_doc("User", "Administrator")
+2025-04-03 22:33:22,293 INFO ipython from frappe.utils import get_random_string
+from frappe.auth import PasswordHasher
+
+password_hasher = PasswordHasher()
+new_password = "nova_senha_123"  # Substitua pela senha desejada
+
+# Gera o hash da nova senha
+user.password = password_hasher.hash(new_password)
+
+# Salvar o usuário com a nova senha
+user.save()
+2025-04-03 22:33:22,293 INFO ipython user = frappe.get_doc("User", "Administrator")
+2025-04-03 22:33:22,293 INFO ipython from frappe.utils.password import get_decrypted_password
+
+new_password = "nova_senha_123"  # Substitua pela senha desejada
+user.password = new_password
+user.save()
+2025-04-03 22:33:22,293 INFO ipython === session end ===
+2025-04-03 23:12:02,752 INFO ipython === bench console session ===
+2025-04-03 23:12:02,752 INFO ipython import frappe
+from frappe.model.document import Document
+
+# Criando o Doctype
+doctype = frappe.get_doc({
+    "doctype": "DocType",
+    "name": "Appointment",
+    "module": "Custom",  # Escolha um módulo para o seu aplicativo
+    "fields": [
+        {"fieldname": "client_name", "fieldtype": "Data", "label": "Client Name"},
+        {"fieldname": "start_date", "fieldtype": "Datetime", "label": "Start Date"},
+        {"fieldname": "end_date", "fieldtype": "Datetime", "label": "End Date", "read_only": 1},
+        {"fieldname": "duration", "fieldtype": "Time", "label": "Duration"},
+        {"fieldname": "description", "fieldtype": "Small Text", "label": "Description"},
+        {"fieldname": "seller", "fieldtype": "Link", "label": "Seller", "options": "User"},
+        {"fieldname": "status", "fieldtype": "Select", "label": "Status", "options": "Scheduled\nFinished\nCanceled"}
+    ],
+    "permissions": [
+        {"role": "Administrator", "read": 1, "write": 1, "create": 1, "delete": 1}
+    ]
+})
+
+doctype.insert()
+2025-04-03 23:12:02,752 INFO ipython # Criando o Doctype 'Appointment'
+from frappe.model.document import Document
+
+class Appointment(Document):
+    def validate(self):
+        # Coloque aqui as validações que precisar
+        pass
+
+# Criação do Doctype
+appointment = frappe.get_doc({
+    'doctype': 'DocType',
+    'name': 'Appointment',
+    'module': 'Custom',  # ou 'Core'
+    'is_custom': 1,  # Define como um doctype personalizado
+    'fields': [
+        {
+            'fieldname': 'client_name',
+            'fieldtype': 'Data',
+            'label': 'Client Name',
+        },
+        {
+            'fieldname': 'start_date',
+            'fieldtype': 'Datetime',
+            'label': 'Start Date',
+        },
+        {
+            'fieldname': 'end_date',
+            'fieldtype': 'Datetime',
+            'label': 'End Date',
+            'read_only': 1,
+        },
+        {
+            'fieldname': 'duration',
+            'fieldtype': 'Time',
+            'label': 'Duration',
+        },
+        {
+            'fieldname': 'description',
+            'fieldtype': 'Small Text',
+            'label': 'Description',
+        },
+        {
+            'fieldname': 'seller',
+            'fieldtype': 'Link',
+            'label': 'Seller',
+            'options': 'User',
+        },
+        {
+            'fieldname': 'status',
+            'fieldtype': 'Select',
+            'label': 'Status',
+            'options': 'Scheduled\nFinished\nCanceled',  # Opções de status
+        }
+    ]
+})
+
+# Salvar o novo Doctype
+appointment.insert()
+2025-04-03 23:12:02,752 INFO ipython # Editando o DocType 'Appointment' existente
+appointment = frappe.get_doc('DocType', 'Appointment')
+
+# Adicionando campos
+appointment.append('fields', {
+    'fieldname': 'new_field',
+    'fieldtype': 'Data',
+    'label': 'New Field'
+})
+
+appointment.save()
+2025-04-03 23:12:02,752 INFO ipython # Excluindo o DocType 'Appointment'
+appointment = frappe.get_doc('DocType', 'Appointment')
+appointment.delete()
+2025-04-03 23:12:02,752 INFO ipython # Criando um novo DocType 'Appointment'
+appointment = frappe.get_doc({
+    'doctype': 'DocType',
+    'name': 'Appointment',
+    'module': 'Scheduling',  # Módulo onde o DocType será criado
+    'custom': 1,  # Marcar como um DocType customizado
+    'fields': [
+        {
+            'fieldname': 'appointment_date',
+            'fieldtype': 'Date',
+            'label': 'Appointment Date',
+            'mandatory': 1
+        },
+        {
+            'fieldname': 'appointment_time',
+            'fieldtype': 'Time',
+            'label': 'Appointment Time',
+            'mandatory': 1
+        },
+        {
+            'fieldname': 'doctor',
+            'fieldtype': 'Link',
+            'label': 'Doctor',
+            'options': 'User',  # Relacionando com o DocType 'User'
+            'mandatory': 1
+        },
+        {
+            'fieldname': 'patient_name',
+            'fieldtype': 'Data',
+            'label': 'Patient Name',
+            'mandatory': 1
+        },
+        {
+            'fieldname': 'status',
+            'fieldtype': 'Select',
+            'label': 'Status',
+            'options': 'Scheduled\nCompleted\nCancelled',  # Statuses possíveis
+            'default': 'Scheduled',
+            'mandatory': 1
+        }
+    ]
+})
+
+# Salvando o novo DocType
+appointment.insert()
+2025-04-03 23:12:02,752 INFO ipython === session end ===
+2025-04-03 23:48:16,807 INFO ipython === bench console session ===
+2025-04-03 23:48:16,807 INFO ipython doctype = frappe.get_doc({
+    "doctype": "DocType",
+    "name": "Appointment",
+    "module": "Scheduling",  # Confirme que esse é o nome correto do módulo
+    "custom": 1,  # Define como um Doctype personalizado
+    "fields": [
+        {"fieldname": "customer", "fieldtype": "Data", "label": "Customer"},
+        {"fieldname": "date", "fieldtype": "Date", "label": "Date"},
+        {"fieldname": "time", "fieldtype": "Time", "label": "Time"},
+        {"fieldname": "status", "fieldtype": "Select", "label": "Status", "options": "Scheduled\nCompleted\nCancelled"}
+    ]
+})
+
+doctype.insert()
+2025-04-03 23:48:16,807 INFO ipython module = frappe.get_doc({
+    "doctype": "Module Def",
+    "module_name": "Scheduling",
+    "app_name": "scheduling"
+})
+module.insert()
+2025-04-03 23:48:16,807 INFO ipython === session end ===
